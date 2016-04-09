@@ -8,6 +8,11 @@
     <!-- <link rel="stylesheet" href="{{ url_for('static', filename='assets/css/bootstrap.min.css') }}"> -->
     <script type="text/javascript" src="{{ url_for('static', filename='assets/js/index.js') }}"></script>
     <script type="text/javascript" src="{{ url_for('static', filename='assets/js/ui-bootstrap-tpls-1.1.2.min.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='assets/js/lodash.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='assets/js/angular-simple-logger.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='assets/js/angular-google-maps.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='assets/js/ng-map.min.js') }}"></script>
+    <script src='//maps.googleapis.com/maps/api/js?sensor=false'></script>
 </head>
 
 <body ng-controller="RefugeeController">
@@ -40,6 +45,15 @@
   <hr>
   <h1>Hello {{yourName | angular}}!</h1>
 </div>
+
+<ng-map zoom="11" center="[40.74, -74.18]">
+  <marker position="[40.74, -74.18]" />
+  <shape name="circle" radius="400" center="[40.74,-74.18]" radius="4000" />
+  <control name="overviewMap" opened="true" />
+</ng-map>
+<!--<div id="map_canvas">
+    <ui-gmap-google-map center="map.center" zoom="map.zoom" options="options"></ui-gmap-google-map>
+</div> -->
 
 </body>
 </html>
