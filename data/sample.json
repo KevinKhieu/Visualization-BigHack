@@ -1,0 +1,311 @@
+{
+  "name": "Sorathan Chaturapruek",
+  "first_name": "Sorathan",
+  "last_name": "Chaturapruek",
+  "title": "Search Data Software Engineer at Yelp / CS PhD Student at Stanford",
+  "location": "San Francisco",
+  "country": "California",
+  "industry": null,
+  "summary": "I'm a second-year computer science PhD student at Stanford University. I'm interested in statistical machine learning, information theory, and data mining. Previously, I was a math and CS double major at Harvey Mudd College, a crime modeling researcher at UCLA, a search software engineer at Yelp, a researcher in math at Harvey Mudd College and Budapest University of Technology and Economics. I'm an enthusiast in learning Chinese and piano, and a regular participant in hackathons and education events.My personal website: http://cs.stanford.edu/~sorathanFor my CV (may not up-to-date), please visit https://dl.dropboxusercontent.com/u/67300625/Profile/tum_chaturapruek_cv_shortened.pdf",
+  "picture": null,
+  "projects": [
+
+  ],
+  "linkedin_url": "https://www.linkedin.com/in/sorathan-chaturapruek-a5a15145",
+  "education": [
+    {
+      "name": "Stanford University",
+      "description": "",
+      "degree": "Doctor of Philosophy (Ph.D.), Computer Science, 3.99",
+      "period": "2014 – 2019",
+      "start_date": "2014",
+      "end_date": "2019"
+    },
+    {
+      "name": "Harvey Mudd College",
+      "description": "Double Major in Mathematics and Computer ScienceHigh DistinctionDepartmental Honors in MathematicsDepartmental Honors in Computer ScienceActivities and Societies: Mudd Software Design, American Sign Language, Math Club, Choir",
+      "degree": "Bachelor of Science, Mathematics and Computer Science Double Major, Overall: 3.92 (5th/173), Math: 4.00 (1st/17), CS: 3.86 (3rd/36)",
+      "period": "2010 – 2014",
+      "start_date": "2010",
+      "end_date": "2014"
+    },
+    {
+      "name": "Budapest University of Technology and Economics",
+      "description": "Math and Computer Science Coursework and Research/Study Abroad/Learning Hungarian CultureActivities and Societies: Math-CS Research Group",
+      "degree": "BS, Computer Software Engineering",
+      "period": "2013 – 2013",
+      "start_date": "2013",
+      "end_date": "2013"
+    }
+  ],
+  "groups": [
+
+  ],
+  "websites": [
+
+  ],
+  "languages": [
+
+  ],
+  "skills": [
+    "LaTeX",
+    "Mathematica",
+    "Python",
+    "Matlab",
+    "R",
+    "Algorithms",
+    "Mathematical Modeling",
+    "C++",
+    "Java",
+    "Machine Learning",
+    "Computer Science",
+    "C",
+    "Physics",
+    "Statistics",
+    "Prolog",
+    "See 9+",
+    "Scheme",
+    "Data Analysis",
+    "Agile Application Development",
+    "Ruby on Rails",
+    "Haskell",
+    "Ruby",
+    "Programming",
+    "Applied Mathematics",
+    "Software Engineering",
+    "See less"
+  ],
+  "certifications": [
+
+  ],
+  "organizations": [
+
+  ],
+  "past_companies": [
+
+  ],
+  "current_companies": [
+
+  ],
+  "companies": [
+    {
+      "title": "Search Data Team Software Engineering Intern",
+      "company": "Yelp",
+      "description": "Bizmatch service v2. Bizmatch is an algorithm to match partial business information (e.g., name, address, GPS location, suggested business id) with businesses in the Yelp databases. This service is used in many applications at Yelp, but notably in data ingestion, where we ingest business data and updates from third-party partners. I used a data-driven approach to improve the business match algorithm, starting by monitoring and quantifying performance of each partner. I set up a whole harness for testing Yelp's bizmatch (which I developed last summer) against gold data sets and then crowd-sourced the gold datasets.I fixed many false negatives, false positives, mismatches, and also improved bizmatch speed, precision, and recall across many partners. Collaborating with colleagues at Yelp, I also developed front-end tools (mostly with AngularJs) to allow humans to quickly see matching business candidates during labeling and to debug bizmatch in general.",
+      "duration": "3 months",
+      "start_date": "2014-07-01",
+      "end_date": "2014-09-03",
+      "linkedin_company_url": "https://www.linkedin.com/company/yelp-com?trk=ppro_cprof",
+      "url": "http://www.yelp.com",
+      "website": "http://www.yelp.com",
+      "industry": "Internet",
+      "type": "Public Company",
+      "headquarters": "140 New Montgomery St.\n\nSan Francisco,\nCA\n94105\nUnited States",
+      "company_size": "1001-5000 employees",
+      "founded": "2004",
+      "address": "140 New Montgomery St.  San Francisco, CA 94105 United States"
+    },
+    {
+      "title": "Student Researcher",
+      "company": "Harvey Mudd College",
+      "description": "Worked with Professor Mohamed Omar on computational geometry and robotics problems. Investigated the shortest path problem among 3D obstacles of specific types. Preprint is ready to submit (more details to come).title: Robots can quickly avoid pillars",
+      "duration": "3 months",
+      "start_date": "2014-05-01",
+      "end_date": "2014-07-03",
+      "linkedin_company_url": "https://www.linkedin.com/company/harvey-mudd-college?trk=ppro_cprof",
+      "url": "http://www.hmc.edu",
+      "website": "http://www.hmc.edu",
+      "industry": "Higher Education",
+      "type": "Educational Institution",
+      "headquarters": "United States",
+      "company_size": "201-500 employees",
+      "founded": "1955",
+      "address": "United States"
+    },
+    {
+      "title": "Student Researcher, Senior Thesis in Mathematics",
+      "company": "Harvey Mudd College",
+      "description": "(Working with Professor Weiqing Gu)- Researching Unmanned Aerial Vehicles using Lie groups, Lie algebra, and machine learning techniques such as reinforcement learning. Investigated quadrotor landing and control problems.(http://www.math.hmc.edu/~schaturapruek/thesis/).",
+      "duration": "10 months",
+      "start_date": "2013-08-01",
+      "end_date": "2014-05-10",
+      "linkedin_company_url": "https://www.linkedin.com/company/harvey-mudd-college?trk=ppro_cprof"
+    },
+    {
+      "title": "Student Researcher and Developer, Clinic Program in Computer Science",
+      "company": "Computer Science Department, Harvey Mudd College",
+      "description": "(Worked with Thomas Ashmore, Corinne Druhan, Bridgette Eichelberger, Professor Micheal Erlinger and Elizabeth Schofield)− Developing and improving the existing Middle-years Computer Science (MyCS) curriculum for mid- dle and high school teachers to emphasize development of a computational identity, described as a student’s self-definition regarding his or her computational thinking skills.− Deploying a web instance on Amazon EC2 and a local server for MyCS Massive Open Online Course;",
+      "duration": "10 months",
+      "start_date": "2013-08-01",
+      "end_date": "2014-05-10",
+      "linkedin_company_url": "https://www.linkedin.com/company/harvey-mudd-college?trk=ppro_cprof"
+    },
+    {
+      "title": "Mathematics Academic Facilitator",
+      "company": "Harvey Mudd College",
+      "description": "− As an Academic Excellence (AE) Math Tutor, I am part of a team responsible for leading homework help sessions,workshops and exam reviews that reinforce the material covered in the math core plus Math 55 (Discrete Mathematics), 70 (Linear Algebra), and 80 (Differential Equations). The job requires creativity, leadership, and a sense of humor, as well as the ability to help first- and second-year students master fundamental math concepts.− Held tutoring sessions for students taking courses in linear algebra, differential equations, probability & statistics, and discrete mathematics. Presented tutoring strategies in staff development meetings;",
+      "duration": "1 year 9 months",
+      "start_date": "2012-09-01",
+      "end_date": "2014-05-01",
+      "linkedin_company_url": "https://www.linkedin.com/company/harvey-mudd-college?trk=ppro_cprof",
+      "url": "http://www.hmc.edu",
+      "website": "http://www.hmc.edu",
+      "industry": "Higher Education",
+      "type": "Educational Institution",
+      "headquarters": "United States",
+      "company_size": "201-500 employees",
+      "founded": "1955",
+      "address": "United States"
+    },
+    {
+      "title": "Search Team Software Engineering Intern",
+      "company": "Yelp",
+      "description": "Software Engineering in the search team(Worked with Mentor Scott Triglia, Search Data and Search Infrastructure Teams)− Designed and implemented an end-to-end workflow for business match service, which matches partial business information to businesses in the Yelp database. This service is used for various purposes such as deduplication and updating business information from the third party companies.− Wrote scripts to parse results from Elastic Search and used AngularJS to write an admin page for debugging searching results. Incorporated TF-IDF weighting into scoring schema− Evaluated matching results using domain-specific evaluation metrics for different use cases and presented the result to the rest of the search team.− Received an offer for a full-time position in the Search team.",
+      "duration": "9 months",
+      "start_date": "2013-05-01",
+      "end_date": "2014-01-09",
+      "linkedin_company_url": "https://www.linkedin.com/company/yelp-com?trk=ppro_cprof"
+    },
+    {
+      "title": "Grader, Verification-Centric Software Engineering",
+      "company": "Computer Science Department, Harvey Mudd College",
+      "description": "(Worked with Professor Daniel Zimmerman)− Graded homework assignments and projects. Topics include tools, techniques, and theory for the specification, implementation, verification and testing of object-oriented software systems. Students use BON (the Business Object Notation), Java, JML (the Java Modeling Language), and various software tools to build, verify, and test non-trivial systems− Wrote scripts to test submitted homework and to automate score computation & distribution.",
+      "duration": "5 months",
+      "start_date": "2013-08-01",
+      "end_date": "2013-12-05",
+      "linkedin_company_url": "https://www.linkedin.com/company/harvey-mudd-college?trk=ppro_cprof"
+    },
+    {
+      "title": "Student Researcher, Spectral Clustering of Networks",
+      "company": "Budapest Semesters in Mathematics, Budapest University of Technology and Economics",
+      "description": "(Worked with Professor Marianna Bolla, Brian Bullins, Shiwen Chen, and Professor Katalin Friedl)− Modeled networks by edge-weighted graphs, where edge-weights are pairwise similarities between the sites (vertices of the graph). Investigated clusters (communities) of the vertices such that the information flow between the cluster pairs and within the clusters is as homogeneous as possible.− Used the smallest eigenvalues of the Laplacian or normalized Laplacian matrix assigned to the graph to estimate minimum multiway cuts, whereas clusters are found by the corresponding eigenvectors.− Discovered a new condition in which the modularity matrices are negative semidefinite, which implies that the clusters are indivisible.(http://arxiv.org/abs/1305.2147);",
+      "duration": "5 months",
+      "start_date": "2013-01-01",
+      "end_date": "2013-05-05",
+      "linkedin_company_url": "https://www.linkedin.com/company/budapest-university-of-technology-and-economics?trk=ppro_cprof",
+      "url": "http://www.bme.hu",
+      "website": "http://www.bme.hu",
+      "industry": "Higher Education",
+      "type": "Educational Institution",
+      "headquarters": "Műegyetem rkp. 3-9.\nBudapest,\n1111\nHungary",
+      "company_size": "1001-5000 employees",
+      "address": "Műegyetem rkp. 3-9. Budapest, 1111 Hungary"
+    },
+    {
+      "title": "Software Developer, Educational Geometric Game Software Development",
+      "company": "Starfish Enterprises, LLC",
+      "description": "(Worked with the TriangleLand Team and Luke Mastalli-Kelly, sponsored by HMC via a grant from the Colegato Foundation)− Developed a geometric educational game in Java to help high school students transition to proof-based mathematics in college;",
+      "duration": "5 months",
+      "start_date": "2012-08-01",
+      "end_date": "2012-12-05",
+      "linkedin_company_url": "http://www.linkedin.com/"
+    },
+    {
+      "title": "Math Researcher, Harmonic Analysis on Finite Groups and Machine Learning on Groups",
+      "company": "Harvey Mudd College",
+      "description": "(Worked with Jeremy Usatine (HMC’14), Professors Michael Orrison and Susan Martonosi)− Modeled predictions of who is in an adjacent room given limited observations of who is entering or leaving the room. We investigated how we could quickly calculate probabilities according to our model− Used an isotypic decomposition of C[X] such that the isotypic subspaces correspond to irreducible representations of the Fourier transform on Sn, which are indexed by partitions of n, to show that some of this methodology can be extended to the case where X is k sized subsets of {1,2,...,n}.(https://dl.dropboxusercontent.com/u/67300625/tum_fall_2012_representation.pdf);",
+      "duration": "8 months",
+      "start_date": "2012-05-01",
+      "end_date": "2012-12-08",
+      "linkedin_company_url": "https://www.linkedin.com/company/harvey-mudd-college?trk=ppro_cprof",
+      "url": "http://www.hmc.edu",
+      "website": "http://www.hmc.edu",
+      "industry": "Higher Education",
+      "type": "Educational Institution",
+      "headquarters": "United States",
+      "company_size": "201-500 employees",
+      "founded": "1955",
+      "address": "United States"
+    },
+    {
+      "title": "Math Researcher, Crime Modeling with Levy Flights",
+      "company": "UCLA",
+      "description": "(Worked with Jonah Breslau (Pomona), Daniel Yazdi (UCLA), Professor Theodore Kolokolnikov (Dalhousie University) and Scott G. McCalla (UCLA))− Modeled the formation of hotspots of criminal activity by extending the existing model to incorporate a more realistic model of human locomotion called Lévy flights. Studied how Lévy flights affect the stability of hot-spots in a crime model.− Performed linear stability analysis and wrote MATLAB code to numerically verify theoretical results.− S. Chaturapruek, J. Breslau, D. Yazdi, T. Kolokolnikov, and S.G. McCalla, Crime Modeling with Levy Flights, SIAM Journal on Applied Mathematics 73, 1703-1720 (2013). DOI: 10.1137/120895408 (http://dx.doi.org/10.1137/120895408). Also featured in a SIAM Nugget (http://connect.siam.org/tracking-criminal-movement-using-math/);",
+      "duration": "4 months",
+      "start_date": "2012-05-01",
+      "end_date": "2012-08-04",
+      "linkedin_company_url": "https://www.linkedin.com/company/ucla?trk=ppro_cprof"
+    },
+    {
+      "title": "Student Researcher, Algebraic Statistics",
+      "company": "Mathematics Department, Harvey Mudd College",
+      "description": "(Worked with Jacob Brumbaugh-Smith (Pomona) and Professor Michael Orrison)− Studied the Markov basis for some graphs such as the Johnson graph.− Used a software package called 4ti2 to find conjectures about nested summary statistics, and then mathematically proved those conjectures.(https://dl.dropboxusercontent.com/u/67300625/tum_summer_2012_giovanni.pdf).",
+      "duration": "4 months",
+      "start_date": "2012-03-01",
+      "end_date": "2012-06-04",
+      "linkedin_company_url": "https://www.linkedin.com/company/harvey-mudd-college?trk=ppro_cprof",
+      "url": "http://www.hmc.edu",
+      "website": "http://www.hmc.edu",
+      "industry": "Higher Education",
+      "type": "Educational Institution",
+      "headquarters": "United States",
+      "company_size": "201-500 employees",
+      "founded": "1955",
+      "address": "United States"
+    },
+    {
+      "title": "Grader and Tutor, Abstract Algebra",
+      "company": "Mathematics Department, Harvey Mudd College",
+      "description": "− Graded and tutored students taking Abstract Algebra class. Topics include groups, rings, fields, vector spaces, and modules; polynomial and field extensions; applications to number theory.",
+      "duration": "5 months",
+      "start_date": "2011-08-01",
+      "end_date": "2011-12-05",
+      "linkedin_company_url": "https://www.linkedin.com/company/harvey-mudd-college?trk=ppro_cprof",
+      "url": "http://www.hmc.edu",
+      "website": "http://www.hmc.edu",
+      "industry": "Higher Education",
+      "type": "Educational Institution",
+      "headquarters": "United States",
+      "company_size": "201-500 employees",
+      "founded": "1955",
+      "address": "United States"
+    },
+    {
+      "title": "Student Researcher, Geometry through Lie Groups and Discrete Subgroups",
+      "company": "Research Experiences for Undergraduates (REU), University of Utah College of Science",
+      "description": "− Investigated the growth rates of nilpotent linear groups and solvable linear groups using Cayley graph and the words metric.− Studied Thurston Theorem, p-adic numbers, buildings and Coxeter groups.",
+      "duration": "2 months",
+      "start_date": "2011-05-01",
+      "end_date": "2011-06-02",
+      "linkedin_company_url": "https://www.linkedin.com/company/university-of-utah-college-of-science?trk=ppro_cprof"
+    },
+    {
+      "title": "Participant, ISMO Thailand Representative Selection Project for International Math Olympiad",
+      "company": "the International Science and Mathe Olympiad Thailand Representative Selection Project for Thailand",
+      "description": "− Selected in the Final Round Selective Training Camps for 3 years. Those top 6 finalists will represent Thailand for International Mathematics Olympiad (IMO). I was a top 15 finalist each year.− Studied Olympiad-level geometry, inequalities, combinatorics, number theory, functional equations, and algebra.",
+      "duration": "2 years 1 month",
+      "start_date": "2007-05-01",
+      "end_date": "2009-05-02",
+      "linkedin_company_url": "http://www.linkedin.com/"
+    },
+    {
+      "title": "Student Researcher, Geometric Transformations",
+      "company": "Chulalongkorn University (through the JSTP program) and Mahidol Wittayanusorn School",
+      "description": "(Worked with Professor Nataphan Kitisin (Chulalongkorn University))− Studied the structure of a sequence of geometric transformations of bicentric quadrilaterals, also using a computer software (The Geometer’s Sketchpad) as a researching tool.− Won a special prize in the International Scientific Conference of Students, XVIII Annual Sakharov’s Readings, Saint Petersburg, Russia.(https://dl.dropboxusercontent.com/u/67300625/tum_bicentric.pdf)",
+      "duration": "2 years 2 months",
+      "start_date": "2007-04-01",
+      "end_date": "2009-05-02",
+      "linkedin_company_url": "https://www.linkedin.com/company/chulalongkorn-university?trk=ppro_cprof",
+      "url": "http://www.chula.ac.th/",
+      "website": "http://www.chula.ac.th/",
+      "industry": "Higher Education",
+      "type": "Educational Institution",
+      "headquarters": "254 Phayathai Rd. Pathumwan\n\nBangkok,\n\n10330\nThailand",
+      "company_size": "1001-5000 employees",
+      "founded": "1917",
+      "address": "254 Phayathai Rd. Pathumwan  Bangkok,  10330 Thailand"
+    },
+    {
+      "title": "Student Researcher, Design Theory",
+      "company": "Srinakharinwirot Patumwan University and Mahidol Wittayanusorn School, Thailand",
+      "description": "(Worked with Professor Dinesh G. Sarvate (College of Charleston, SC))− Studied design theory (a branch of combinatorial mathematics and computer science) and the decomposition of complete bipartite graphs− Decomposed the complete bipartite graphs into specific types of subspaces, such as the set of paths of a fixed length and the set of star with equal degree.",
+      "duration": "8 months",
+      "start_date": "2007-05-01",
+      "end_date": "2007-12-08",
+      "linkedin_company_url": "http://www.linkedin.com/"
+    }
+  ],
+  "recommended_visitors": [
+
+  ]
+}
