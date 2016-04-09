@@ -120,8 +120,9 @@
       <th>Major</th>
       <th>School</th>
       <th>Degree</th>
-      <th>Can answer question about</th>
+      <th>Can help refugees on questions about</th>
       <th>Helping transport donations?</th>
+      <th>Skills</th>
     </tr>
   </thead>
   <tbody>
@@ -133,6 +134,7 @@
       <td>{{volunteer.Degree | angular}}</td>
       <td>{{volunteer.Answer | angular}}</td>
       <td>{{volunteer.Donation | angular}}</td>
+      <td ng-bind-html="volunteer.Skills | unsafe"></td>
     </tr>
   </tbody>
 </table>

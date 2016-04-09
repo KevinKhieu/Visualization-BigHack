@@ -21,7 +21,7 @@ def about():
 
 @app.route('/api/data')
 def data():
-    with open("static/data/volunteer-signups.csv") as csvfile:
+    with open("static/data/augmented_volunteers.csv") as csvfile:
         reader = csv.DictReader(csvfile)
         results = []
         for row in reader:
