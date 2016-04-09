@@ -1,0 +1,10 @@
+linkedin-scraper https://www.linkedin.com/in/kevinkhieu | jq -c . > kevinkhieu.json
+linkedin-scraper https://www.linkedin.com/in/alexanderyku | jq -c . > alexanderyku.json
+linkedin-scraper https://www.linkedin.com/in/davidtleee | jq -c . > davidtleee.json
+linkedin-scraper https://www.linkedin.com/in/linmarisa | jq -c . > linmarisa.json
+linkedin-scraper https://www.linkedin.com/in/augustinechemparathy | jq -c . > augustinechemparathy.json
+linkedin-scraper https://www.linkedin.com/in/david-ta-21a79aa0 | jq -c . > david.json
+linkedin-scraper https://www.linkedin.com/in/mayaganesan | jq -c . > mayaganesan.json
+linkedin-scraper https://www.linkedin.com/in/ksnazir | jq -c . > ksnazir.json
+linkedin-scraper https://www.linkedin.com/in/daniel-tang-1857b510a | jq -c . > daniel.json
+linkedin-scraper https://www.linkedin.com/in/bentyeh | jq -c . > bentyeh.json
