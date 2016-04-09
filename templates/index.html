@@ -2,17 +2,24 @@
 <html ng-app="refugee">
 <head>
     <title>Refugee Volunteering</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
     <!-- <script type="text/javascript" src="{{ url_for('static', filename='assets/js/angular.js') }}"></script> -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
     <!-- <link rel="stylesheet" href="{{ url_for('static', filename='assets/css/bootstrap.min.css') }}"> -->
     <script type="text/javascript" src="{{ url_for('static', filename='assets/js/index.js') }}"></script>
     <script type="text/javascript" src="{{ url_for('static', filename='assets/js/ui-bootstrap-tpls-1.1.2.min.js') }}"></script>
-    <script type="text/javascript" src="{{ url_for('static', filename='assets/js/lodash.js') }}"></script>
+    <!-- <script type="text/javascript" src="{{ url_for('static', filename='assets/js/lodash.js') }}"></script> -->
     <script type="text/javascript" src="{{ url_for('static', filename='assets/js/angular-simple-logger.js') }}"></script>
-    <script type="text/javascript" src="{{ url_for('static', filename='assets/js/angular-google-maps.js') }}"></script>
+    <!-- <script type="text/javascript" src="{{ url_for('static', filename='assets/js/angular-google-maps.js') }}"></script> -->
     <script type="text/javascript" src="{{ url_for('static', filename='assets/js/ng-map.min.js') }}"></script>
-    <script src='//maps.googleapis.com/maps/api/js?sensor=false'></script>
+    <link rel="stylesheet" src="{{ url_for('static', filename='assets/css/index.css') }}">
+    <link rel="stylesheet" href="//cdn.datatables.net/1.10.11/css/jquery.dataTables.min.css">
+    <script type="text/javascript" src="//cdn.datatables.net/1.10.11/js/jquery.dataTables.min.js"></script>
+    
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/2.4.1/lodash.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/angular-google-maps/2.0.11/angular-google-maps.js"></script>
+    <script type="text/javascript" src='//maps.googleapis.com/maps/api/js?sensor=false'></script>
 </head>
 
 <body ng-controller="RefugeeController">
@@ -39,11 +46,98 @@
   </div><!-- /.container-fluid -->
 </nav>
 
-<ng-map zoom="11" center="[40.74, -74.18]">
-  <marker position="[40.74, -74.18]" />
-  <shape name="circle" radius="400" center="[40.74,-74.18]" radius="4000" />
-  <control name="overviewMap" opened="true" />
-</ng-map>
+<style type="text/css">
+
+.navbar-default {
+  background       : rgba(0, 0, 255, 0.1);
+}
+
+#bs-example-navbar-collapse-1 > ul > li.active > a {
+  background       : rgba(0, 0, 255, 0.2);
+}
+.navbar-header {
+}
+
+.card {
+  width            : 98%;
+  padding          : 1.5rem;
+  box-shadow       : 0 1px 2px #aaa;
+  background       : rgba(0, 0, 255, 0.02);
+  margin           : 0 1rem 1rem;
+  border-radius    : 3px;
+  /*user-select      : none;*/
+  /*animation        : fly-in-from-left .5s 1s ease both;*/
+  /*transform-origin : top left;*/
+}
+
+.card_header {
+  font-size        : 23px;
+  font-weight      : 500;
+  /*text-align       : center;*/
+}
+
+.card_sub_header {
+  font-size        : 18px;
+  font-weight      : 400;
+  margin-bottom    : 10px;  
+  /*text-align       : center;*/
+}
+
+#map_canvas {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+}
+
+.angular-google-map-container {
+  height: 50vh;
+  width: 30%;
+  text-align: center;
+}
+</style>
+
+<section class="card">
+<div class="card_header">Where do volunteers come from?</div>
+<div id="map_canvas">
+  <ui-gmap-google-map center='map.center' zoom='map.zoom' options='options'>
+     <ui-gmap-marker ng-repeat="marker in markers"
+      coords="marker.coords" options="marker.options" events="marker.events" idkey="marker.id">
+      <ui-gmap-window>
+        <div>{{marker.window.title | angular}}</div>
+      </ui-gmap-window>
+    </ui-gmap-marker>
+  </ui-gmap-google-map>
+</div>
+</section>
+
+<section class="card">
+<div class="card_header">Who are volunteers?</div>
+<table id="volunteers" class="display" cellspacing="0" width="100%">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Email</th>
+      <th>Major</th>
+      <th>School</th>
+      <th>Degree</th>
+      <th>Can answer question about</th>
+      <th>Helping transport donations?</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr ng-repeat="volunteer in data">
+      <td>{{volunteer.Name | angular}}</td>
+      <td>{{volunteer.Email | angular}}</td>
+      <td>{{volunteer.Major | angular}}</td>
+      <td>{{volunteer.School | angular}}</td>
+      <td>{{volunteer.Degree | angular }}</td>
+      <td>{{volunteer.Answer | angular }}</td>
+      <td>{{volunteer.Donation | angular }}</td>
+    </tr>
+  </tbody>
+</table>
+</section>
+
 <!--<div id="map_canvas">
     <ui-gmap-google-map center="map.center" zoom="map.zoom" options="options"></ui-gmap-google-map>
 </div> -->
