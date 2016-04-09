@@ -4,11 +4,12 @@
 To install...
 
 First time
-1) Install virtualenv: `easy_install virtualenv`
-2) Add a virtualenv folder: `virtualenv -p /usr/bin/python2.7 venv`
-3) Activate it: `source venv/bin/activate`
-4) Install dependencies: `pip install -r requirements.txt`
-5) Run app: `python app.py`
+1) Install pip: `sudo easy_install pip`
+2) Install virtualenv: `pip install virtualenv`
+3) Add a virtualenv folder: `virtualenv -p /usr/bin/python2.7 venv`
+4) Activate it: `source venv/bin/activate`
+5) Install dependencies: `pip install -r requirements.txt`
+6) Run app: `python app.py`
 
 
 When you want to exit the virtual environment, run `deactivate`
