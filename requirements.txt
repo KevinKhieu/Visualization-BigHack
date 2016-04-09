@@ -1,5 +1,4 @@
 requests
-flask-mysql
 flask-triangle
 ipdb
 flask-wtf
