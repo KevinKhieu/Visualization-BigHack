@@ -1,0 +1,235 @@
+{
+  "name": "Grace Noh",
+  "first_name": "Grace",
+  "last_name": "Noh",
+  "title": "Strategic Designer and Self-learner",
+  "location": "San Francisco Bay Area",
+  "number_of_connections": "500+",
+  "country": "San Francisco Bay Area",
+  "industry": "Design",
+  "summary": "www.gracesnoh.comHi there! My name is Grace and I like to solve problems through design. Something I love about design is the process, starting from napkin sketches to delivering the final product. What I realized from my past design experiences is that reflecting back on the process and where you went wrong or right is where you can make the most strides in improvement. I strive to apply this principle not only in my designs, but also to every other aspect of my life. If you have any inquires or projects that you'd like to collaborate with me on, feel free to reach me at gracesnoh@gmail.com",
+  "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAXHAAAAJGNkYWMwMDE2LTlkYWYtNDg0YS1iYmUzLTM3MmRkNTcwNzhmMQ.jpg",
+  "projects": [
+    {
+      "title": "\"Googlantis\" - UC Berkeley Google Designathon",
+      "link": "https://docs.google.com/file/d/0B7vjTDyxP6hEaVRzTEFMVGtIQ2c4S3Q2elZJc045S2VtNGg4/edit",
+      "start_date": null,
+      "end_date": null,
+      "description": "At the UC Berkeley Google Designathon hosted by the Berkeley Design Council, we were tasked with designing a city’s infrastructure built to defend against a zombie apocalypse. Our team created a slide deck that proposed our solutions and achieved 2nd place overall, “Best Design”, and “Audience Choice Award” out of 15+ teams, moving onto to present to the Google Plus design team at Google Headquarters in Mountain View, CA. ",
+      "associates": [
+        "Grace Noh",
+        "Ying Luo",
+        "Khanh Pham"
+      ]
+    },
+    {
+      "title": "\"Google Time\" | Google Designathon + Berkeley Innovation",
+      "link": "https://drive.google.com/folderview?id=0BzTA2Rjp51sQZjI5QTRIeDd3Wnc&usp=sharing",
+      "start_date": null,
+      "end_date": null,
+      "description": "At the Google Designathon hosted by Berkeley Innovation of Spring 2014, we were given the prompt of how Google should deal with the advent of time travel through product design. After being awarded the Audience Choice Award, our team moved on to present to the Google Plus team at Google Headquarters in Mountain View, CA. Our team's solution is linked above.",
+      "associates": null
+    }
+  ],
+  "linkedin_url": "https://www.linkedin.com/in/gracenoh",
+  "education": [
+    {
+      "name": "University of California, Berkeley",
+      "description": "Bachelor's degree, Multi/Interdisciplinary Studies",
+      "degree": null,
+      "major": null,
+      "period": "2013 – 2017",
+      "start_date": "2013",
+      "end_date": "2017"
+    }
+  ],
+  "groups": [
+    {
+      "name": "Innovative Design at Cal",
+      "link": "https://www.linkedin.com/groups?gid=4418849&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "ABA (University of California, Berkeley)",
+      "link": "https://www.linkedin.com/groups?gid=3248470&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "Sutardja Center for Entrepreneurship & Technology",
+      "link": "https://www.linkedin.com/groups?gid=1545&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "Interaction Design Association",
+      "link": "https://www.linkedin.com/groups?gid=3754&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "UC Berkeley",
+      "link": "https://www.linkedin.com/groups?gid=41675&trk=prof-groups-membership-name"
+    }
+  ],
+  "websites": [
+    "http://www.gracesnoh.com"
+  ],
+  "languages": [
+
+  ],
+  "skills": [
+    "Illustrator",
+    "Photoshop",
+    "Marketing",
+    "User Experience Design",
+    "User Interface Design",
+    "Graphic Design",
+    "Social Media",
+    "Coffee",
+    "Entrepreneurship",
+    "Logo Design",
+    "Marketing Strategy",
+    "Management",
+    "Advertising",
+    "Computer Animation",
+    "Social Media Marketing",
+    "See 10+",
+    "Maya",
+    "After Effects",
+    "Premiere Pro",
+    "Music Education",
+    "Facebook",
+    "Public Speaking",
+    "Microsoft Excel",
+    "PowerPoint",
+    "Coffee Roasting",
+    "Making Coffee",
+    "See less"
+  ],
+  "certifications": [
+
+  ],
+  "organizations": [
+
+  ],
+  "past_companies": [
+    {
+      "title": "Visual Design Intern",
+      "company": "Sencha",
+      "description": "• Created a complete UI asset kit, Ext JS Stencils, to help Ext JS customers wireframe applications more efficiently (2000+ downloads)• Procured marketing materials such as product icons and graphics for the company's website to better communicate what the company can do for customers (15+ icons)• Presented Forrester's application development market trends data as an infographic to reorganize into understandable pieces of information",
+      "duration": "3 months",
+      "start_date": "2015-06-01",
+      "end_date": "2015-08-03",
+      "linkedin_company_url": "https://www.linkedin.com/company/sencha-inc?trk=ppro_cprof",
+      "url": "http://www.sencha.com",
+      "website": "http://www.sencha.com",
+      "industry": "Computer Software",
+      "type": "Privately Held",
+      "headquarters": "1700 Seaport Blvd.\nSuite 120\nRedwood City,\nCA\n94063\nUnited States",
+      "company_size": "51-200 employees",
+      "founded": "2007",
+      "address": "1700 Seaport Blvd. Suite 120 Redwood City, CA 94063 United States"
+    },
+    {
+      "title": "Google Localization Extern",
+      "company": "Google",
+      "description": "Shadowed the Head of Technology and Analytics at Google Localization",
+      "duration": "1 month",
+      "start_date": "2015-01-01",
+      "end_date": "2015-01-01",
+      "linkedin_company_url": "https://www.linkedin.com/company/google?trk=ppro_cprof"
+    },
+    {
+      "title": "Design Intern",
+      "company": "Sparxo, Inc.",
+      "description": "• Designed 4 webpages, 3 icons, and 20+ animations for Sparxo’s corporate website, self-teaching programming along the way• Revamped Sparxo's corporate website, building a more interactive experience online for customers to improve user-friendliness• Advertised Sparxo’s web-based technology products through the website, improving Sparxo’s brand recognition",
+      "duration": "4 months",
+      "start_date": "2014-05-01",
+      "end_date": "2014-08-04",
+      "linkedin_company_url": "https://www.linkedin.com/company/sparxo-inc-?trk=ppro_cprof",
+      "url": "http://www.sparxo.com",
+      "website": "http://www.sparxo.com",
+      "industry": "Information Technology and Services",
+      "type": "Privately Held",
+      "headquarters": "900 Folsom St San Francisco\n\nSan Francisco,\nCA\n94107\nUnited States",
+      "company_size": "1-10 employees",
+      "founded": "2011",
+      "address": "900 Folsom St San Francisco  San Francisco, CA 94107 United States"
+    }
+  ],
+  "current_companies": [
+    {
+      "title": "UI/UX Designer (Contract)",
+      "company": "Monster Inc.",
+      "description": "• Redesigned the UI and UX of the mobile app for their wireless bluetooth speaker system (Soundstage), aiming to reduce return rates• Incorporated user interview data to identity painpoints, backing up my design decisions when presenting to product managers• Brainstorm new features for the next release of the app with product managers and engineers to improve the UX for customers",
+      "duration": "9 months",
+      "start_date": "2015-08-01",
+      "end_date": "Present",
+      "linkedin_company_url": "https://www.linkedin.com/company/monster-inc?trk=ppro_cprof"
+    },
+    {
+      "title": "Course Instructor",
+      "company": "CS 198 (Intro to Illustrator and Photoshop)",
+      "description": "http://decal.innovativedesign.club/",
+      "duration": "4 months",
+      "start_date": "2016-01-01",
+      "end_date": "Present"
+    }
+  ],
+  "recommended_visitors": [
+    {
+      "link": "https://www.linkedin.com/in/carolineyoungg?trk=pub-pbmap",
+      "name": "Caroline Young",
+      "title": "Associate Account Strategist Intern",
+      "company": "Google"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michaelziyiwang?trk=pub-pbmap",
+      "name": "Michael (Ziyi) Wang",
+      "title": "Internal Vice President",
+      "company": "Berkeley ABA"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yingtluo?trk=pub-pbmap",
+      "name": "Ying Luo",
+      "title": "Incoming Data Analyst Intern",
+      "company": "Autodesk"
+    },
+    {
+      "link": "https://www.linkedin.com/in/allenwang17?trk=pub-pbmap",
+      "name": "Allen Wang",
+      "title": "Listening before Leading",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/phamkhanh?trk=pub-pbmap",
+      "name": "Khanh Pham",
+      "title": "Product Marketing Intern",
+      "company": "Autodesk"
+    },
+    {
+      "link": "https://www.linkedin.com/in/judytian?trk=pub-pbmap",
+      "name": "Judy Tian",
+      "title": "Humble. Hungry. Happy.",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/conanzhou?trk=pub-pbmap",
+      "name": "Conan Zhou",
+      "title": "Incoming Investment Banking Summer Analyst",
+      "company": "Perella Weinberg Partners"
+    },
+    {
+      "link": "https://www.linkedin.com/in/cherieleung?trk=pub-pbmap",
+      "name": "Cherie Leung",
+      "title": "Striving to create an impact wherever I go",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/tinatseng?trk=pub-pbmap",
+      "name": "Tina Tseng",
+      "title": "Business Strategy & Analytics @ LinkedIn",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachelyonsulee?trk=pub-pbmap",
+      "name": "Rachel Lee",
+      "title": "Management Consulting Intern",
+      "company": "Deloitte"
+    }
+  ]
+}

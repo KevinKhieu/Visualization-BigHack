@@ -1,0 +1,189 @@
+{
+  "name": "Malavika Menon",
+  "first_name": "Malavika",
+  "last_name": "Menon",
+  "title": "Software Development Intern at Elliptic Labs",
+  "location": "Singapore",
+  "number_of_connections": "175",
+  "country": "Singapore",
+  "industry": "Singapore",
+  "summary": null,
+  "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAQJAAAAJGVjMTE5M2EyLWI2YmUtNGE3Ny1hYzA2LWVlNWI1ZTcyYTE3Mw.jpg",
+  "projects": [
+    {
+      "title": "Wearable System to aid the Visually Impaired with Indoor Navigation",
+      "link": null,
+      "start_date": null,
+      "end_date": null,
+      "description": "Programmer (Software Sub-Team)My team aims to develop a fully functional prototype by the end of the semester. This project aims to build a standalone, wearable system that can aid the Visually Impaired to safely navigate indoors.I am part of the software sub team that is developing a robust software system using RaspberryPi and Python. The system aims to act like a GPS system to help the Visually Impaired navigate around a building, and also to help them avoid both static and mobile obstacles that may appear in their path. This ensures that the User would be able to reach their destination safely.Being developed as a part of Capstone Design Project",
+      "associates": [
+        "Malavika Menon"
+      ]
+    }
+  ],
+  "linkedin_url": "https://sg.linkedin.com/in/malavikamenon",
+  "education": [
+    {
+      "name": "National University of Singapore",
+      "description": "Bachelor of Engineering (B.Eng.), Computer Engineering",
+      "degree": null,
+      "major": null,
+      "period": "2013 – 2017",
+      "start_date": "2013",
+      "end_date": "2017"
+    },
+    {
+      "name": "Stanford University",
+      "description": ", Managerial Science & Engineering",
+      "degree": null,
+      "major": null,
+      "period": "2016 – 2016",
+      "start_date": "2016",
+      "end_date": "2016"
+    },
+    {
+      "name": "Imperial College London",
+      "description": ", Business Strategy and Consulting, Pass",
+      "degree": null,
+      "major": null,
+      "period": "2014 – 2014",
+      "start_date": "2014",
+      "end_date": "2014"
+    },
+    {
+      "name": "Raffles Institution",
+      "description": "Raffles Programme, GCSE A-Level",
+      "degree": null,
+      "major": null,
+      "period": "2011 – 2012",
+      "start_date": "2011",
+      "end_date": "2012"
+    },
+    {
+      "name": "Raffles Girls' Secondary School",
+      "description": "Raffles Programme (Integrated Programme)",
+      "degree": null,
+      "major": null,
+      "period": "2007 – 2010",
+      "start_date": "2007",
+      "end_date": "2010"
+    }
+  ],
+  "groups": [
+
+  ],
+  "websites": [
+
+  ],
+  "languages": [
+
+  ],
+  "skills": [
+    "Java",
+    "C",
+    "Ruby",
+    "Python",
+    "JavaScript",
+    "ARM Cortex-M",
+    "Microsoft Word",
+    "C++",
+    "Public Speaking",
+    "Team Leadership",
+    "Arduino",
+    "VHDL",
+    "Photoshop",
+    "Multi-cultural Team Management",
+    "Report Writing",
+    "Process Consulting"
+  ],
+  "certifications": [
+
+  ],
+  "organizations": [
+
+  ],
+  "past_companies": [
+    {
+      "title": "Product Research and Application Development Intern",
+      "company": "MoneySmart.sg",
+      "description": "- Contributed to the backend development of their latest GeoLocation based iOS application, concentrating on building scripts in Ruby on Rails to scrape data from multiple websites and to automate the scraping process. -Built scripts focusing on JSON and XML data parsing, data cleanup using Regex, extraction and query of Geo Location Coordinates using Google Maps API as well as the storage of data in CSV format.- Helped improve the overall UX design of the application.",
+      "duration": "3 months",
+      "start_date": "2015-06-01",
+      "end_date": "2015-08-03",
+      "linkedin_company_url": "https://www.linkedin.com/company/moneysmart-sg?trk=ppro_cprof"
+    },
+    {
+      "title": "Software Engineering Intern",
+      "company": "Avetics Global Pte Ltd",
+      "description": "Avetics Global Pte Ltd is a start-up company located in Blk71. They specialise in using Drones for Mapping and Photography.Over the short period, I worked mainly on developing a new program using Javascript on the Cesium platform which is used for 2D and 3D modelling of the Earth. This has not been tried by the company before so I was given the full responsibility to create a working prototype in my one month there.",
+      "duration": "2 months",
+      "start_date": "2014-12-01",
+      "end_date": "2015-01-02"
+    }
+  ],
+  "current_companies": [
+
+  ],
+  "recommended_visitors": [
+    {
+      "link": "https://sg.linkedin.com/in/mohamed-azhar-45bb09b1?trk=pub-pbmap",
+      "name": "Mohamed Azhar",
+      "title": "Turbine Blades intern",
+      "company": "GE Aviation"
+    },
+    {
+      "link": "https://sg.linkedin.com/in/undramatized?trk=pub-pbmap",
+      "name": "Rama Krishna",
+      "title": "User Experience Designer",
+      "company": "✪ Smartkarma | Intelligent Investing"
+    },
+    {
+      "link": "https://sg.linkedin.com/in/jinquan89?trk=pub-pbmap",
+      "name": "Tang Jin Quan",
+      "title": "Business Development Lead",
+      "company": "Avetics Pte Ltd"
+    },
+    {
+      "link": "https://sg.linkedin.com/in/vinodnair?trk=pub-pbmap",
+      "name": "Vinod Nair",
+      "title": "CEO",
+      "company": "MoneySmart.sg & DuitPintar.com | Singapore & Indonesia's #1 Personal Finance Portal"
+    },
+    {
+      "link": "https://sg.linkedin.com/in/ncnlinh?trk=pub-pbmap",
+      "name": "Linh Nguyen",
+      "title": "Developer",
+      "company": "Padlet, Inc."
+    },
+    {
+      "link": "https://sg.linkedin.com/in/sandra-lee-42124168?trk=pub-pbmap",
+      "name": "Sandra Lee",
+      "title": "Attended Raffles Junior College",
+      "company": null
+    },
+    {
+      "link": "https://sg.linkedin.com/in/lukas-prasetiya-adi-santoso-491024b8?trk=pub-pbmap",
+      "name": "Lukas Prasetiya Adi Santoso",
+      "title": "Student",
+      "company": "Singapore Institute of Management"
+    },
+    {
+      "link": "https://sg.linkedin.com/in/srevinod?trk=pub-pbmap",
+      "name": "Sre Vinod Seenivasan",
+      "title": "Software Engineer",
+      "company": "Emergent Payments"
+    },
+    {
+      "link": "https://sg.linkedin.com/in/vignesh-nagappan-074589a3?trk=pub-pbmap",
+      "name": "Vignesh Nagappan",
+      "title": "Ease and efficiency",
+      "company": null
+    },
+    {
+      "link": "https://sg.linkedin.com/in/poornima-venkataraman-4a693363?trk=pub-pbmap",
+      "name": "Poornima Venkataraman",
+      "title": "Marketing Analyst",
+      "company": "Playphone"
+    }
+  ]
+}

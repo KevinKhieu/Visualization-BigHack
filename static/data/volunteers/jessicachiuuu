@@ -1,0 +1,255 @@
+{
+  "name": "Jessica Chiu",
+  "first_name": "Jessica",
+  "last_name": "Chiu",
+  "title": "Director at Cal Hacks",
+  "location": "Berkeley",
+  "number_of_connections": "500+",
+  "country": "California",
+  "industry": "Computer Software",
+  "summary": null,
+  "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAYiAAAAJDIwNzRiNzE4LTZmZGYtNGQ2ZC1iMjkzLTIxYmM0M2YxYzQ0NQ.jpg",
+  "projects": [
+
+  ],
+  "linkedin_url": "https://www.linkedin.com/in/jessicachiuuu",
+  "education": [
+    {
+      "name": "University of California, Berkeley",
+      "description": "Bachelor’s Degree, Political Science | Computer Science Minor",
+      "degree": null,
+      "major": null,
+      "period": "2012 – 2016",
+      "start_date": "2012",
+      "end_date": "2016"
+    },
+    {
+      "name": "Homestead High School",
+      "description": "",
+      "degree": null,
+      "major": null,
+      "period": "2008 – 2012",
+      "start_date": "2008",
+      "end_date": "2012"
+    }
+  ],
+  "groups": [
+
+  ],
+  "websites": [
+
+  ],
+  "languages": [
+
+  ],
+  "skills": [
+    "Customer Service",
+    "Social Media",
+    "Public Relations",
+    "Microsoft Office",
+    "Teamwork",
+    "Python",
+    "Violin",
+    "Public Speaking",
+    "HTML",
+    "Event Planning",
+    "Adobe Creative Suite",
+    "Tennis",
+    "Java",
+    "C",
+    "MIPS",
+    "Human Resources",
+    "Recruiting"
+  ],
+  "certifications": [
+
+  ],
+  "organizations": [
+
+  ],
+  "past_companies": [
+    {
+      "title": "Lab Assistant | Computer Science 61B: Data Structures",
+      "company": "UC Berkeley Computer Science Department",
+      "description": "• Assisted 65+ undergraduate students in this computer science course during their weekly lab sections• Provided individual help for students that had questions on their homework, labs, and projects throughout the course and aided the teacher’s assistant in facilitating a productive and efficient learning environment",
+      "duration": "5 months",
+      "start_date": "2015-01-01",
+      "end_date": "2015-05-05",
+      "linkedin_company_url": "https://www.linkedin.com/company/uc-berkeley?trk=ppro_cprof",
+      "url": "http://www.berkeley.edu/",
+      "website": "http://www.berkeley.edu/",
+      "industry": "Higher Education",
+      "type": "Educational Institution",
+      "headquarters": "709 Davis Hall\n\nBerkeley,\nCA\n94720-1710\nUnited States",
+      "company_size": "10,001+ employees",
+      "founded": "1868",
+      "address": "709 Davis Hall  Berkeley, CA 94720-1710 United States"
+    },
+    {
+      "title": "Internal Vice President & Webmaster | Past: Leadership Development Chair",
+      "company": "Kappa Alpha Pi Professional Pre-Law Fraternity",
+      "description": "• Fostered the leadership and professional development of new members and served as their mentor and role model• Utilized website creating tools to build and design completely new website which helped bring in 70+ applicants • Remained an impartial mediator during conflicts and ensured compliance with chapter bylaws and other policies",
+      "duration": "1 year 1 month",
+      "start_date": "2014-05-01",
+      "end_date": "2015-05-01",
+      "linkedin_company_url": "https://www.linkedin.com/company/kappa-alpha-pi-professional-pre-law-fraternity?trk=ppro_cprof"
+    },
+    {
+      "title": "Human Resources Intern",
+      "company": "Morrison & Foerster LLP",
+      "description": "• Assisted in the successful recruitment of 30+ new hires by scheduling and hosting interviews, handling job postings, and ensuring successful orientations for all hires of this AmLaw 20 law firm across 8 of its offices• Maintained the entire budget for staff recruiting and updated the benefits budget for employee healthcare• Participated crucially in the implementation of several recruiting processes while maintaining confidentiality",
+      "duration": "3 months",
+      "start_date": "2014-06-01",
+      "end_date": "2014-08-03",
+      "linkedin_company_url": "https://www.linkedin.com/company/morrison-&-foerster-llp?trk=ppro_cprof",
+      "url": "http://www.mofo.com",
+      "website": "http://www.mofo.com",
+      "industry": "Law Practice",
+      "type": "Partnership",
+      "company_size": "1001-5000 employees",
+      "founded": "1883"
+    },
+    {
+      "title": "Service Deputy",
+      "company": "Associated Students of the University of California",
+      "description": "• Managed 3 directors that constitute the service branch of the office, responsible for platform implementation• Worked on several large scale projects throughout the year, such as strengthening the Cal Service Network and uniting the service community through events that require participation from multiple service organizations• Coordinated the first annual Cal Service Fair that provided students with more exposure to 17 diverse service organizations here on campus, also helped those organizations to expand and gain valuable publicity",
+      "duration": "10 months",
+      "start_date": "2013-08-01",
+      "end_date": "2014-05-10",
+      "linkedin_company_url": "https://www.linkedin.com/company/associated-students-of-the-university-of-california?trk=ppro_cprof",
+      "url": "http://www.asuc.org",
+      "website": "http://www.asuc.org",
+      "industry": "Political Organization",
+      "type": "Nonprofit",
+      "headquarters": "Eshleman Hall, Suite 412\nUC Berkeley\nBerkeley,\nCalifornia\n94720\nUnited States",
+      "company_size": "201-500 employees",
+      "founded": "1887",
+      "address": "Eshleman Hall, Suite 412 UC Berkeley Berkeley, California 94720 United States"
+    },
+    {
+      "title": "Research Analyst",
+      "company": "Bay's Elite Management & Investments",
+      "description": "• Selected for a commercial real estate & property management internship• Assembled extensive and informative marketing packages for multi-million dollar properties successfully sold • Provided feedback for clients on the values of their properties and assisted in negotiating sales with other brokers",
+      "duration": "2 months",
+      "start_date": "2013-07-01",
+      "end_date": "2013-08-02"
+    },
+    {
+      "title": "Summer Camp Counselor & First Violinist",
+      "company": "California Youth Symphony",
+      "description": "• Played on the international level in Argentina, Uruguay, and New Zealand on 2 symphony tours in the summer• Performed annually at the Bay Of Hope Concert which benefited underprivileged children in the Bay Area• Selected to return as a counselor and facilitated and planned camp activities such as a night hike and team-building games, as well as providing supervision and guidance for the 120+ members of the youth symphony",
+      "duration": "8 years",
+      "start_date": "2005-09-01",
+      "end_date": "2013-08-08"
+    },
+    {
+      "title": "Second Violinist",
+      "company": "UC Berkeley Symphony Orchestra",
+      "description": "• Performed at various orchestra concerts and benefit events such as the International Women’s Forum in San Francisco, where the audience consisted of famous women from around the world, including Nancy Pelosi• Experienced master classes with two prominent world class conductors, Esa Pekka Salonen and Gustavo Dudamel",
+      "duration": "9 months",
+      "start_date": "2012-09-01",
+      "end_date": "2013-05-09"
+    },
+    {
+      "title": "Junior Auxiliary Member",
+      "company": "Stanford Hospital & Clinics",
+      "description": "• Facilitated the hospital information desk and conducted patient data entry at the Oncology Pain Management Clinic• Delivered front line customer service by supporting patients and acted as a hospital guide for families of patients • Dedicated 100+ hours of excellent service and was awarded the Community Service Award upon graduation",
+      "duration": "1 year 4 months",
+      "start_date": "2011-02-01",
+      "end_date": "2012-05-01",
+      "linkedin_company_url": "https://www.linkedin.com/company/stanford-health-care?trk=ppro_cprof",
+      "url": "http://stanfordhealthcare.org",
+      "website": "http://stanfordhealthcare.org",
+      "industry": "Hospital & Health Care",
+      "type": "Nonprofit",
+      "headquarters": "300 Pasteur Drive\n\nStanford,\nCalifornia\n94305\nUnited States",
+      "company_size": "5001-10,000 employees",
+      "founded": "1885",
+      "address": "300 Pasteur Drive  Stanford, California 94305 United States"
+    }
+  ],
+  "current_companies": [
+    {
+      "title": "Information Security Compliance Analyst",
+      "company": "UC Berkeley Student Affairs - Information Technology/Residential Computing",
+      "description": "• Helped managers complete 11+ self-assessments regarding applications they are responsible for to determine compliance with all 17 sections of UC Berkeley’s Minimum Security Standards for Electronic Information policy• Worked on creating more effective methods of educating both staff and students about better security practices to protect sensitive information such as data protected under the Family Educational Rights and Privacy Act • Contributed directly to the Chief Security Officer’s mission to improve information security by cross-training with technical and non-technical members of the team and beginning to assess UC Berkeley’s 300+ applications",
+      "duration": "1 year 2 months",
+      "start_date": "2015-03-01",
+      "end_date": "Present",
+      "linkedin_company_url": "https://www.linkedin.com/company/uc-berkeley?trk=ppro_cprof",
+      "url": "http://www.berkeley.edu/",
+      "website": "http://www.berkeley.edu/",
+      "industry": "Higher Education",
+      "type": "Educational Institution",
+      "headquarters": "709 Davis Hall\n\nBerkeley,\nCA\n94720-1710\nUnited States",
+      "company_size": "10,001+ employees",
+      "founded": "1868",
+      "address": "709 Davis Hall  Berkeley, CA 94720-1710 United States"
+    },
+    {
+      "title": "Organizing Team",
+      "company": "Cal Hacks",
+      "description": "• Currently marketing lead for The Big Hack 2016: A Social Good Hackathon, co-hosted by Cal's Blueprint, Stanford's CS+Social Good, Cal Hacks, and TreeHacks which aims to create innovative solutions for social problems being tackled by some of the most impactful non-profit organizations in the Bay Area• Spearheaded a social media marketing campaign that brought in over 3,000 attendees to our Facebook event and 3,000+ applications submitted for the second Cal Hacks hackathon this October at California Memorial Stadium• Organized an effective admissions process that would maximize diversity among the projected 1,500+ attendees and coordinated recruitment for volunteers at this 3-day event, along with designing/ordering $16,000 of apparel • Facilitated outreach campaign that encouraged hackers from unique backgrounds to participate and resulted in the largest ever collegiate hackathon with over 2000+ hackers, along with mentors, sponsors, and volunteers",
+      "duration": "1 year 3 months",
+      "start_date": "2015-02-01",
+      "end_date": "Present",
+      "linkedin_company_url": "https://www.linkedin.com/company/cal-hacks?trk=ppro_cprof"
+    }
+  ],
+  "recommended_visitors": [
+    {
+      "link": "https://www.linkedin.com/in/jenniferfei?trk=pub-pbmap",
+      "name": "Jennifer Fei",
+      "title": "Analyst",
+      "company": "Goldman Sachs"
+    },
+    {
+      "link": "https://www.linkedin.com/in/heather-lui-a41b8259?trk=pub-pbmap",
+      "name": "Heather Lui",
+      "title": "J. D. Candidate",
+      "company": "University of California, Berkeley School of Law"
+    },
+    {
+      "link": "https://www.linkedin.com/in/briantvo?trk=pub-pbmap",
+      "name": "Brian Vo",
+      "title": "Analyst",
+      "company": "Goldman Sachs"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kearaharrington?trk=pub-pbmap",
+      "name": "Keara Harrington",
+      "title": "Salon Coordinator",
+      "company": "Carlton Hair International"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachael-hu-324906112?trk=pub-pbmap",
+      "name": "Rachael Hu",
+      "title": "Undergraduate Researcher",
+      "company": "UC San Diego Health"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kristen-lee-0a375594?trk=pub-pbmap",
+      "name": "Kristen Lee",
+      "title": "Student",
+      "company": "University of California, Berkeley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jill-lin-0116b547?trk=pub-pbmap",
+      "name": "Jill Lin",
+      "title": "Student",
+      "company": "University of California, Berkeley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/oliverfong?trk=pub-pbmap",
+      "name": "Oliver Fong",
+      "title": "J.D. Candidate",
+      "company": "Columbia Law School"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elaine-sun-a4989631?trk=pub-pbmap",
+      "name": "Elaine Sun",
+      "title": "J.D. Candidate",
+      "company": "Columbia Law School"
+    }
+  ]
+}

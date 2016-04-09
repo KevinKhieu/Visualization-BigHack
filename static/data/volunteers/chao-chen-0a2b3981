@@ -1,0 +1,129 @@
+{
+  "name": "Chao Chen",
+  "first_name": "Chao",
+  "last_name": "Chen",
+  "title": "Student at Stanford University",
+  "location": "Stanford",
+  "number_of_connections": "169",
+  "country": "California",
+  "industry": "Research",
+  "summary": null,
+  "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/6/005/016/2e7/1cd2fc9.jpg",
+  "projects": [
+
+  ],
+  "linkedin_url": "https://www.linkedin.com/in/chao-chen-0a2b3981",
+  "education": [
+    {
+      "name": "Stanford University",
+      "description": "",
+      "degree": null,
+      "major": null,
+      "period": "2012 – 2017",
+      "start_date": "2012",
+      "end_date": "2017"
+    }
+  ],
+  "groups": [
+
+  ],
+  "websites": [
+
+  ],
+  "languages": [
+
+  ],
+  "skills": [
+    "Computational Mathematics",
+    "Numerical Analysis"
+  ],
+  "certifications": [
+
+  ],
+  "organizations": [
+
+  ],
+  "past_companies": [
+
+  ],
+  "current_companies": [
+    {
+      "title": "Research assistant",
+      "company": "Stanford University",
+      "description": "Black box fast multipole method",
+      "duration": "3 years 1 month",
+      "start_date": "2013-04-01",
+      "end_date": "Present",
+      "linkedin_company_url": "https://www.linkedin.com/company/stanford-university?trk=ppro_cprof",
+      "url": "http://125.stanford.edu/",
+      "website": "http://125.stanford.edu/",
+      "industry": "Higher Education",
+      "type": "Educational Institution",
+      "headquarters": "450 Serra Mall\n\nStanford,\nCA\n94305\nUnited States",
+      "company_size": "5001-10,000 employees",
+      "address": "450 Serra Mall  Stanford, CA 94305 United States"
+    }
+  ],
+  "recommended_visitors": [
+    {
+      "link": "https://www.linkedin.com/in/david-barmherzig-37037882?trk=pub-pbmap",
+      "name": "David Barmherzig",
+      "title": "mc",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/carolzong?trk=pub-pbmap",
+      "name": "Sizhu (Carol) Zong",
+      "title": "Data Scientist",
+      "company": "Chegg Inc."
+    },
+    {
+      "link": "https://www.linkedin.com/in/yang-yu-433414b1?trk=pub-pbmap",
+      "name": "Yang Yu",
+      "title": "Ph.D. Candidate in Statistics",
+      "company": "Purdue University"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jane-hyunji-bae-5339366a?trk=pub-pbmap",
+      "name": "Jane Hyunji Bae",
+      "title": "PhD Candidate",
+      "company": "Stanford University"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ruoxi-wang-08011962?trk=pub-pbmap",
+      "name": "Ruoxi Wang",
+      "title": "Research Assistant",
+      "company": "Stanford University"
+    },
+    {
+      "link": "https://www.linkedin.com/in/xiaotong-suo-0aa98028?trk=pub-pbmap",
+      "name": "Xiaotong Suo",
+      "title": "Student",
+      "company": "Stanford University"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pengfei-gao-1b411659?trk=pub-pbmap",
+      "name": "Pengfei Gao",
+      "title": "PhD candidate",
+      "company": "Stanford"
+    },
+    {
+      "link": "https://www.linkedin.com/in/junjie-qin-aa6b0048?trk=pub-pbmap",
+      "name": "Junjie Qin",
+      "title": "PhD Candidate",
+      "company": "Stanford University"
+    },
+    {
+      "link": "https://www.linkedin.com/in/xingmargaretfu?trk=pub-pbmap",
+      "name": "Xing Margaret Fu",
+      "title": "Student",
+      "company": "Stanford University"
+    },
+    {
+      "link": "https://www.linkedin.com/in/luwan-zhang-589648a3?trk=pub-pbmap",
+      "name": "Luwan Zhang",
+      "title": "Research Assistant",
+      "company": "University of Wisconsin-Madison"
+    }
+  ]
+}

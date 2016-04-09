@@ -1,0 +1,146 @@
+{
+  "name": "Ken Chen",
+  "first_name": "Ken",
+  "last_name": "Chen",
+  "title": "Student at UC Berkeley",
+  "location": "Berkeley",
+  "number_of_connections": "86",
+  "country": "California",
+  "industry": "Computer Software",
+  "summary": null,
+  "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAlOAAAAJDY4NjRiYjRmLWRjYTEtNDEwNy1hYzk3LTA1NWYyZDZjYWNiNQ.jpg",
+  "projects": [
+
+  ],
+  "linkedin_url": "https://www.linkedin.com/in/kenzchen",
+  "education": [
+    {
+      "name": "University of California, Berkeley",
+      "description": "Bachelor’s Degree, Computer Science, Statistics",
+      "degree": null,
+      "major": null,
+      "period": "2015 – 2018",
+      "start_date": "2015",
+      "end_date": "2018"
+    },
+    {
+      "name": "Palo Alto High School",
+      "description": "",
+      "degree": null,
+      "major": null,
+      "period": "2011 – 2015",
+      "start_date": "2011",
+      "end_date": "2015"
+    }
+  ],
+  "groups": [
+
+  ],
+  "websites": [
+
+  ],
+  "languages": [
+
+  ],
+  "skills": [
+    "Research",
+    "Chemistry",
+    "Python",
+    "Java",
+    "JavaScript",
+    "Illustrator",
+    "Photoshop",
+    "Sketch",
+    "HTML",
+    "CSS",
+    "Leadership",
+    "Social Media",
+    "Public Speaking",
+    "Microsoft Office",
+    "Microsoft Word"
+  ],
+  "certifications": [
+
+  ],
+  "organizations": [
+
+  ],
+  "past_companies": [
+
+  ],
+  "current_companies": [
+    {
+      "title": "Consultant",
+      "company": "Indiegogo",
+      "description": "Consulting at Berkeley Innovation, a Human Centered Design agency that works with organizations to redesign aspects of their products with greater thoughtfulness for the user. Currently working with Indiegogo to collect user/entrepreneur research and create pages that are more streamlined towards Indiegogo's mission of supporting entrepreneurs across a longer lifespan.",
+      "duration": "3 months",
+      "start_date": "2016-02-01",
+      "end_date": "Present",
+      "linkedin_company_url": "https://www.linkedin.com/company/indiegogo?trk=ppro_cprof",
+      "url": "http://www.indiegogo.com",
+      "website": "http://www.indiegogo.com",
+      "industry": "Fund-Raising",
+      "type": "Privately Held",
+      "headquarters": "965 Mission Street, 7th Floor\n\nSan Francisco,\nCA\n94103\nUnited States",
+      "company_size": "51-200 employees",
+      "founded": "2008",
+      "address": "965 Mission Street, 7th Floor  San Francisco, CA 94103 United States"
+    }
+  ],
+  "recommended_visitors": [
+    {
+      "link": "https://www.linkedin.com/in/kbharathala?trk=pub-pbmap",
+      "name": "Krishna Bharathala",
+      "title": "Student",
+      "company": "University of Pennsylvania"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kevin-chang-1596432?trk=pub-pbmap",
+      "name": "Kevin Chang"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jessica-chang-26a36b2?trk=pub-pbmap",
+      "name": "Jessica Chang"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nishant-kheterpal-16606a113?trk=pub-pbmap",
+      "name": "Nishant Kheterpal",
+      "title": "Student",
+      "company": "UC Berkeley College of Engineering"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rochelleshen?trk=pub-pbmap",
+      "name": "Rochelle Shen"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jimmyqian13?trk=pub-pbmap",
+      "name": "Jimmy Qian",
+      "title": "Student",
+      "company": "the University of Pennsylvania"
+    },
+    {
+      "link": "https://www.linkedin.com/in/clay-watson-656518117?trk=pub-pbmap",
+      "name": "Clay Watson",
+      "title": "Student",
+      "company": "Palo Alto High School"
+    },
+    {
+      "link": "https://www.linkedin.com/in/michelle-ling-197767b4?trk=pub-pbmap",
+      "name": "Michelle Ling",
+      "title": "Consultant",
+      "company": "Voyager Consulting"
+    },
+    {
+      "link": "https://www.linkedin.com/in/helen-yang-70883a72?trk=pub-pbmap",
+      "name": "Helen Yang",
+      "title": "--",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/kaylyn-arima-8aa436103?trk=pub-pbmap",
+      "name": "Kaylyn Arima",
+      "title": "Student",
+      "company": "Santa Clara University"
+    }
+  ]
+}

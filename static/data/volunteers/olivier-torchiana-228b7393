@@ -1,0 +1,142 @@
+{
+  "name": "Olivier Torchiana",
+  "first_name": "Olivier",
+  "last_name": "Torchiana",
+  "title": "B.S. Candidate, Stanford University",
+  "location": "Stanford",
+  "number_of_connections": "500+",
+  "country": "California",
+  "industry": "Capital Markets",
+  "summary": null,
+  "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAREAAAAJDYyZjQ2NjJjLTU3N2YtNGI5Yi04NjkzLTc2ZmVmMWMyYTg1Yg.jpg",
+  "projects": [
+
+  ],
+  "linkedin_url": "https://www.linkedin.com/in/olivier-torchiana-228b7393",
+  "education": [
+    {
+      "name": "Stanford University",
+      "description": "Bachelor of Science (B.S.), Symbolic Systems",
+      "degree": null,
+      "major": null,
+      "period": "2012 – 2016",
+      "start_date": "2012",
+      "end_date": "2016"
+    },
+    {
+      "name": "American School of Paris",
+      "description": ", IB Diploma, Cum Laude",
+      "degree": null,
+      "major": null,
+      "period": "2008 – 2012",
+      "start_date": "2008",
+      "end_date": "2012"
+    }
+  ],
+  "groups": [
+
+  ],
+  "websites": [
+
+  ],
+  "languages": [
+
+  ],
+  "skills": [
+
+  ],
+  "certifications": [
+
+  ],
+  "organizations": [
+
+  ],
+  "past_companies": [
+    {
+      "title": "Summer Analyst",
+      "company": "Morgan Stanley",
+      "description": "Summer Analyst in Fixed Income Sales & TradingRotated in: Interest Rate Sales; CLO New Issue; Fixed Income Research: Credit Strategy (HY) Worked on a comparative analysis of CLO cov-lite structures; default model for Oil & Gas High Yield Credit sector Returning full-time in 2016 to Global Capital Markets",
+      "duration": "3 months",
+      "start_date": "2015-06-01",
+      "end_date": "2015-08-03",
+      "linkedin_company_url": "https://www.linkedin.com/company/morgan-stanley?trk=ppro_cprof",
+      "url": "http://www.morganstanley.com",
+      "website": "http://www.morganstanley.com",
+      "industry": "Financial Services",
+      "type": "Public Company",
+      "headquarters": "1585 Broadway\n\nNew York,\nNY\n10036\nUnited States",
+      "company_size": "10,001+ employees",
+      "address": "1585 Broadway  New York, NY 10036 United States"
+    },
+    {
+      "title": "Summer Analyst",
+      "company": "Montage Ventures",
+      "duration": "3 months",
+      "start_date": "2014-06-01",
+      "end_date": "2014-08-03"
+    }
+  ],
+  "current_companies": [
+
+  ],
+  "recommended_visitors": [
+    {
+      "link": "https://www.linkedin.com/in/lily-rivkin-694915a7?trk=pub-pbmap",
+      "name": "Lily Rivkin",
+      "title": "Student",
+      "company": "Yale University"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chrisjamesbarber?trk=pub-pbmap",
+      "name": "Chris Barber",
+      "title": "Stanford",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/anthony-ghosn-211ab068?trk=pub-pbmap",
+      "name": "Anthony Ghosn",
+      "title": "Joe Lonsdale - Chief of Staff",
+      "company": "8VC"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alexandros-bennink-84133164?trk=pub-pbmap",
+      "name": "Alexandros Bennink",
+      "title": "Intern",
+      "company": "The Boston Consulting Group"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anthony-ghosn-2066401?trk=pub-pbmap",
+      "name": "Anthony Ghosn"
+    },
+    {
+      "link": "https://www.linkedin.com/in/claudia-dennler-84b2ba5b?trk=pub-pbmap",
+      "name": "Claudia Dennler",
+      "title": "Intern",
+      "company": "iThera Medical GmbH."
+    },
+    {
+      "link": "https://www.linkedin.com/in/ana-simen-993440a7?trk=pub-pbmap",
+      "name": "Ana Simen",
+      "title": "Summer Intern",
+      "company": "BMW Group"
+    },
+    {
+      "link": "https://www.linkedin.com/in/avery-sellers-57b26057?trk=pub-pbmap",
+      "name": "Avery Sellers",
+      "title": "Communications Intern",
+      "company": "Sol Systems"
+    },
+    {
+      "link": "https://www.linkedin.com/in/averyhaskell?trk=pub-pbmap",
+      "name": "Avery Haskell",
+      "title": "Stanford Computer Science",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthijs-van-duijl-81a95a90?trk=pub-pbmap",
+      "name": "Matthijs van Duijl",
+      "title": "Member Service Representative",
+      "company": "Georgetown University Alumni & Student Federal Credit Union"
+    }
+  ]
+}

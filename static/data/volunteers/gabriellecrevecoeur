@@ -1,0 +1,181 @@
+{
+  "name": "Gabrielle Crevecoeur",
+  "first_name": "Gabrielle",
+  "last_name": "Crevecoeur",
+  "title": "at",
+  "location": "South San Francisco",
+  "number_of_connections": "419",
+  "country": "California",
+  "industry": "Computer Software",
+  "summary": "I am seeking to expand my horizons in my career field by exploring new technologies and immersing myself into different technological communities. I would like to contribute to the successes of young minds entering a STEM field, as well as continuing to grow in my own craft.",
+  "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAUYAAAAJDNlM2UxNGUyLTIzMjktNGUyOC1iOGNiLTM5ZTVlN2Y5NTkwZA.jpg",
+  "projects": [
+
+  ],
+  "linkedin_url": "https://www.linkedin.com/in/gabriellecrevecoeur",
+  "education": [
+    {
+      "name": "Florida State University",
+      "description": "Bachelor’s Degree, Computer Science",
+      "degree": null,
+      "major": null,
+      "period": "2011 – 2015",
+      "start_date": "2011",
+      "end_date": "2015"
+    }
+  ],
+  "groups": [
+    {
+      "name": "C++ professionals group",
+      "link": "https://www.linkedin.com/groups?gid=86782&trk=prof-groups-membership-name"
+    }
+  ],
+  "websites": [
+    "http://nowayshecodes.com"
+  ],
+  "languages": [
+
+  ],
+  "skills": [
+    "C++",
+    "C#",
+    "ASP.NET MVC",
+    "PowerPoint",
+    "Microsoft Word",
+    "Teamwork",
+    "Social Media",
+    "Microsoft Excel",
+    "Time Management",
+    "Microsoft Office",
+    "Customer Service",
+    "Event Planning",
+    "Microsoft Visual Studio C++",
+    "Unix",
+    "English",
+    "See 16+",
+    "Java",
+    "HTML",
+    "Windows",
+    "Team Leadership",
+    "Databases",
+    "Web Design",
+    "Programming",
+    "CSS",
+    "SQL",
+    "Linux",
+    "JavaScript",
+    "Android Development",
+    "jQuery",
+    "MySQL",
+    "Microsoft SQL Server",
+    "ASP.NET",
+    "See less"
+  ],
+  "certifications": [
+
+  ],
+  "organizations": [
+
+  ],
+  "past_companies": [
+    {
+      "title": "Student Web Page Design Assistant",
+      "company": "State University System of Florida - Board of Governors",
+      "description": "* Testing internal and external web applications* Verifying data in web reports* Providing support for data clean-up* Assisting in creating documentation for web applications* Create/Manage Oracle Web Applications* Create/Edit Oracle based databases",
+      "duration": "2 years 6 months",
+      "start_date": "2013-01-01",
+      "end_date": "2015-06-02",
+      "linkedin_company_url": "https://www.linkedin.com/company/state-university-system-of-florida---board-of-governors?trk=ppro_cprof",
+      "url": "http://www.flbog.edu",
+      "website": "http://www.flbog.edu",
+      "industry": "Higher Education",
+      "type": "Government Agency",
+      "company_size": "51-200 employees"
+    },
+    {
+      "title": "Software Development Intern",
+      "company": "General Motors",
+      "description": "* ASP.NET MVC Programming* Creating a web page that interacted with a SQL Server database* Create solutions for better web applications",
+      "duration": "4 months",
+      "start_date": "2014-05-01",
+      "end_date": "2014-08-04",
+      "linkedin_company_url": "https://www.linkedin.com/company/general-motors?trk=ppro_cprof",
+      "url": "http://www.gm.com",
+      "website": "http://www.gm.com",
+      "industry": "Automotive",
+      "type": "Public Company",
+      "headquarters": "P.O. Box 33170\n\nDetroit,\nMichigan\n48232-5170\nUnited States",
+      "company_size": "10,001+ employees",
+      "address": "P.O. Box 33170  Detroit, Michigan 48232-5170 United States"
+    }
+  ],
+  "current_companies": [
+    {
+      "title": "Open Source Developer Evangelist",
+      "company": "Microsoft",
+      "description": "Open Source Development and Evangelism.My focus right now is Node.js and how it can be used for Web Dev, as well as for IOT. Along with developing Node projects I am presenting different technical talks at many different conferences and hackathons, as well as mentoring the STEM community to grow and learn further.Diversity Lead for the NorCal Audience Evangelism team. In this role, I am in charge of finding different technical events that cater to a variety of diverse groups, including race, gender , age , disability and etc.",
+      "duration": "11 months",
+      "start_date": "2015-06-01",
+      "end_date": "Present",
+      "linkedin_company_url": "https://www.linkedin.com/company/microsoft?trk=ppro_cprof"
+    }
+  ],
+  "recommended_visitors": [
+    {
+      "link": "https://www.linkedin.com/in/elston-brown-75b64471?trk=pub-pbmap",
+      "name": "Elston Brown",
+      "title": "Internet Security",
+      "company": "Wells Fargo"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ashleigh-anderson-7141b879?trk=pub-pbmap",
+      "name": "Ashleigh Anderson",
+      "title": "Intern",
+      "company": "Florida House of Representatives"
+    },
+    {
+      "link": "https://www.linkedin.com/in/david-daceus-8a101788?trk=pub-pbmap",
+      "name": "David Daceus",
+      "title": "S3 Special Police & Security",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/eman-lemu-57817753?trk=pub-pbmap",
+      "name": "Eman Lemu"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kaidaniels?trk=pub-pbmap",
+      "name": "Kai Evelyn Smith Daniels",
+      "title": "System Analyst",
+      "company": "General Motors"
+    },
+    {
+      "link": "https://www.linkedin.com/in/annie-bubinski-247556b1?trk=pub-pbmap",
+      "name": "Annie Bubinski",
+      "title": "Community Evangelist, Microsoft",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ejadames11?trk=pub-pbmap",
+      "name": "Erick Adames",
+      "title": "Armed Security Officer",
+      "company": "S3 Special Police and Security"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shawn-whyte-25464b103?trk=pub-pbmap",
+      "name": "Shawn Whyte",
+      "title": "Student",
+      "company": "Florida State University"
+    },
+    {
+      "link": "https://www.linkedin.com/in/linda-jean-pierre-41059ab6?trk=pub-pbmap",
+      "name": "Linda Jean-Pierre",
+      "title": "Florida State University",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/kaleighmack?trk=pub-pbmap",
+      "name": "Kaleigh Mack"
+    }
+  ]
+}

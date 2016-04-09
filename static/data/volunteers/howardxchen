@@ -1,0 +1,236 @@
+{
+  "name": "Howard Chen",
+  "first_name": "Howard",
+  "last_name": "Chen",
+  "title": "Software Engineer Internship at Groupon",
+  "location": "Berkeley",
+  "number_of_connections": "310",
+  "country": "California",
+  "industry": "Computer Software",
+  "summary": "Computer Science @ UC Berkeley Class of 2016.GitHub: https://github.com/chenhowardJavascript, Rails, and Android developer with a passion for building. Experience in Ruby on Rails, BackboneJS, and ReactJS. Also familiar with AngularJS and the Salesforce Platform.Interested in Startups, Freelancing, and NPOs.Located in San Francisco/East Bay.Former Salesforce and Groupon Intern. Worked at POS Startup Breadcrumb.",
+  "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAALSAAAAJDZkNDdkODI4LTg4NWMtNDVhNS04N2EwLWE3YzU5OTliYWVhMQ.jpg",
+  "projects": [
+    {
+      "title": "Project Homeless Connect - Mobile",
+      "link": "https://github.com/calblueprint/PHC",
+      "start_date": null,
+      "end_date": null,
+      "description": "Building Android app to track social and medical services for 75,000 homeless San Franciscansutilizing Salesforce and Rails to implement QR code scanning and advanced search algorithms. We also created a rails server and api to handle fuzzy string searches.",
+      "associates": [
+        "Howard Chen",
+        "Byron Zhang",
+        "Jason Won",
+        "Nishant Desai"
+      ]
+    }
+  ],
+  "linkedin_url": "https://linkedin.com/in/howardxchen",
+  "education": [
+    {
+      "name": "University of California, Berkeley",
+      "description": "Bachelor of Arts (BA), Computer Science",
+      "degree": null,
+      "major": null,
+      "period": "2012 – 2016",
+      "start_date": "2012",
+      "end_date": "2016"
+    },
+    {
+      "name": "San Leandro High School",
+      "description": "High School Diploma",
+      "degree": null,
+      "major": null,
+      "period": "2008 – 2012",
+      "start_date": "2008",
+      "end_date": "2012"
+    }
+  ],
+  "groups": [
+    {
+      "name": "Berkeley CS",
+      "link": "https://www.linkedin.com/groups?gid=3894083&trk=prof-groups-membership-name"
+    }
+  ],
+  "websites": [
+
+  ],
+  "languages": [
+
+  ],
+  "skills": [
+    "Java",
+    "Python",
+    "Programming",
+    "Ruby on Rails",
+    "HTML",
+    "Android Development",
+    "CSS",
+    "JavaScript",
+    "Scheme",
+    "Matlab",
+    "Microsoft Excel",
+    "Django",
+    "Security Operations",
+    "MIPS",
+    "Microsoft Office",
+    "See 9+",
+    "Windows",
+    "Mac OS",
+    "Unix",
+    "Ruby",
+    "PostgreSQL",
+    "Scala",
+    "CoffeeScript",
+    "AngularJS",
+    "SolJs",
+    "See less"
+  ],
+  "certifications": [
+
+  ],
+  "organizations": [
+
+  ],
+  "past_companies": [
+    {
+      "title": "Software Engineer Internship",
+      "company": "Groupon",
+      "description": "Worked on the Breadcrumb Reports Team.- Created asynchronous worker job that generated reports CSVs and emailed them to Restaurant owners.- Wrote javascript to make API calls to Rails Web Server gather data that was aggregated and presented to the user.- Optimized rails endpoints and was able to increase an endpoints speed by 40%. - Created new endpoints to allow external apps to access restaurant data.- Wrote tests to ensure code quality and smooth deployments",
+      "duration": "4 months",
+      "start_date": "2015-05-01",
+      "end_date": "2015-08-04",
+      "linkedin_company_url": "https://www.linkedin.com/company/groupon?trk=ppro_cprof",
+      "url": "http://www.groupon.com",
+      "website": "http://www.groupon.com",
+      "industry": "Internet",
+      "type": "Public Company",
+      "headquarters": "600 W Chicago\nSuite 400\nChicago,\nIL\n60654\nUnited States",
+      "company_size": "10,001+ employees",
+      "founded": "2008",
+      "address": "600 W Chicago Suite 400 Chicago, IL 60654 United States"
+    },
+    {
+      "title": "Internal Vice President",
+      "company": "Cal Blueprint",
+      "description": "- Handled internal affairs within Blueprint- Manage budget- Event planning",
+      "duration": "6 months",
+      "start_date": "2014-12-01",
+      "end_date": "2015-05-06"
+    },
+    {
+      "title": "Technical Project Leader",
+      "company": "Cal Blueprint",
+      "description": "Worked with a San Francisco NPO called Project Homeless Connect to create an Android and Rails application to help them run their events.- Created a Rails application with JSON Endpoints for the Android application to retrieve data.- Integrated with their Salesforce Database- Allowed Rails application to fuzzy string search Salesforce database- Code reviewed all features pushed on the Android application- Regularly met with client to iterate on features",
+      "duration": "7 months",
+      "start_date": "2014-06-01",
+      "end_date": "2014-12-07"
+    },
+    {
+      "title": "Mobile Engineering Intern",
+      "company": "salesforce.com",
+      "description": "I was a full-stack developer. I created mobile web applications that interfaced with the Salesforce platform. My applications were Javascript heavy, and I implemented libraries like jQuery, Angular.js, and d3.js (for data visualization). I worked with Salesforce's platform to create efficient algorithms and designed efficient schemas for the applications that my team made during my time at Salesforce.",
+      "duration": "8 months",
+      "start_date": "2014-01-01",
+      "end_date": "2014-08-08",
+      "linkedin_company_url": "https://www.linkedin.com/company/salesforce?trk=ppro_cprof"
+    },
+    {
+      "title": "Security And Operations Assistant",
+      "company": "University of California, Berkeley Art Museum and Pacific Film Archive",
+      "description": "Secure perimeter and operate the camera system.",
+      "duration": "1 year 6 months",
+      "start_date": "2012-08-01",
+      "end_date": "2014-01-01",
+      "linkedin_company_url": "https://www.linkedin.com/company/university-of-california-berkeley-art-museum-and-pacific-film-archive?trk=ppro_cprof"
+    },
+    {
+      "title": "Musician",
+      "company": "Curtain Call Performing Arts",
+      "description": "Played percussion in the pit orchestra",
+      "duration": "4 months",
+      "start_date": "2011-11-01",
+      "end_date": "2012-02-04"
+    }
+  ],
+  "current_companies": [
+    {
+      "title": "Undergraduate Student Instructor",
+      "company": "UC Berkeley",
+      "description": "Creating course content and leading section for UC Berkeley's new Data Science course.",
+      "duration": "4 months",
+      "start_date": "2016-01-01",
+      "end_date": "Present",
+      "linkedin_company_url": "https://www.linkedin.com/company/uc-berkeley?trk=ppro_cprof",
+      "url": "http://www.berkeley.edu/",
+      "website": "http://www.berkeley.edu/",
+      "industry": "Higher Education",
+      "type": "Educational Institution",
+      "headquarters": "709 Davis Hall\n\nBerkeley,\nCA\n94720-1710\nUnited States",
+      "company_size": "10,001+ employees",
+      "founded": "1868",
+      "address": "709 Davis Hall  Berkeley, CA 94720-1710 United States"
+    }
+  ],
+  "recommended_visitors": [
+    {
+      "link": "https://www.linkedin.com/in/quintonddang?trk=pub-pbmap",
+      "name": "Quinton Dang",
+      "title": "Software Engineer Intern",
+      "company": "Optimizely"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wonjunjeong?trk=pub-pbmap",
+      "name": "Wonjun Jeong",
+      "title": "Software Engineer",
+      "company": "Pinterest"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sam-lau-85927576?trk=pub-pbmap",
+      "name": "Sam Lau",
+      "title": "Undergraduate Student Instructor for DS8",
+      "company": "UC Berkeley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jordeen?trk=pub-pbmap",
+      "name": "Jordeen Chang",
+      "title": "Student",
+      "company": "University of California, Berkeley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vivek-raghuram-15569637?trk=pub-pbmap",
+      "name": "Vivek Raghuram",
+      "title": "Director of Expansion",
+      "company": "Blueprint"
+    },
+    {
+      "link": "https://www.linkedin.com/in/atsunorikakitani?trk=pub-pbmap",
+      "name": "Atsunori Kakitani",
+      "title": "Project Leader",
+      "company": "Blueprint, Technology for Non-Profits"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vtian?trk=pub-pbmap",
+      "name": "Vincent Tian",
+      "title": "Software Engineer",
+      "company": "Pinterest"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jaytlin?trk=pub-pbmap",
+      "name": "Jessica Lin",
+      "title": "Software Developer",
+      "company": "Redfin"
+    },
+    {
+      "link": "https://www.linkedin.com/in/byronium?trk=pub-pbmap",
+      "name": "Byron Zhang",
+      "title": "Full-stack developer",
+      "company": "Watsi.org"
+    },
+    {
+      "link": "https://www.linkedin.com/in/markmiyashita?trk=pub-pbmap",
+      "name": "Mark Miyashita",
+      "title": "Co-Founder & CTO",
+      "company": "Quad"
+    }
+  ]
+}

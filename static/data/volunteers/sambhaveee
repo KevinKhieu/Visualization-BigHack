@@ -1,0 +1,237 @@
+{
+  "name": "Sambhav Jain",
+  "first_name": "Sambhav",
+  "last_name": "Jain",
+  "title": "Research Assistant at Stanford University",
+  "location": "Stanford",
+  "number_of_connections": "453",
+  "country": "California",
+  "industry": "Semiconductors",
+  "summary": "I am a Masters candidate in Electrical Engineering at Stanford University. My research work focuses on wide bandgap semiconductors (AlN, GaN, SiC) for extreme harsh environments like high temperatures (> 600C), radiation and chemical attack, such as in outer space. I'm currently exploring high temperature stable ohmic and Schottky contacts to AlGaN/GaN HEMTs and InAlN/GaN HEMTs for extended periods of operation in air. In the past, I have explored microgravity effects on defect kinetics and material properties in 4H-SiC (Silicon Carbide). This work involved electrical, thermal and microstructural analysis and extensive use of fabrication and characterization facilities at the Stanford Nanofabrication Facility (SNF) and Stanford Nano Shared Facilities (SNSF) improvements.Prior to Stanford, I worked as a design engineer at Texas Instruments (India) for two years. My work at TI touched some of the most intriguing aspects of low-power mixed-signal circuit design, through which I have come to appreciate the complexity in architecting a system that has created a niche in the ultra-low power family of mixed signal processors.In 2012, I graduated from NIT Trichy, India, with the highest honors in Electrical and Electronics Engineering (President Gold Medal).",
+  "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAckAAAAJGNmMWVkYmE2LTZmYzQtNDEzMC04YjQwLWIxZmUwOGYwYjI1OQ.jpg",
+  "projects": [
+    {
+      "title": "A novel optimal filter design for the improved dynamic performance of 3-phase PLLs for phase tracking under grid imperfections",
+      "link": "http://www.stanford.edu/~sambhav/research",
+      "start_date": null,
+      "end_date": null,
+      "description": "• Analysed and modelled the existing 3-phase PLL schemes augmented on a synchronous reference frame (SRF) PLL, built to track frequency and phase fluctuations of a disturbed grid• Identified two major limitations with the traditional Wiener method of loop filter design: (i) yields non-optimum solution due to the inverse dependency between filtering characteristic and dynamic response (ii) requires cumbersome trial-and-error in filter parameter selection• Devised a mathematically rigorous direct analytic approach (i) to eliminate the inherent trade-off in filter parameter selection by decoupling filtering and fast tracking (ii) to yield unique filter parameters for faster tracking, thus achieving the best fit without relying on trial-and-error• Validated the proposed methodology through extensive comparisons in simulation and experiments on a laboratory setup (paper submitted for peer-review)",
+      "associates": [
+        "Sambhav Jain",
+        "Pradhyumna Ravikirthi"
+      ]
+    },
+    {
+      "title": "Aging aware logic optimization for mitigating NBTI induced degradation of PMOS transistors in integrated circuit design",
+      "link": "http://www.stanford.edu/~sambhav/research",
+      "start_date": null,
+      "end_date": null,
+      "description": "Effort spent in:• Studying the effect of dynamically varying stress probabilities (SP) in the degradation of PMOS transistors under negative bias temperature instability (NBTI) induced stress• Accurately predicting circuit performance degradation using extracted SPs at the critical nodes within the logic cone of an ALU in a MIPS architecture• Using the computed SPs to qualify a swap in the symmetric cones to minimize stress on the most critical path segment, thus mitigating aging of the integrated circuit",
+      "associates": [
+        "Sambhav Jain"
+      ]
+    },
+    {
+      "title": "Non-linear control of a mobile inverted pendulum for human transport",
+      "link": null,
+      "start_date": null,
+      "end_date": null,
+      "description": "A mobile 'inverted' pendulum (center-of-mass above its pivot) is a nonlinear, inherently unstable, under-actuated mechanical system with six degrees of freedom and fewer control inputs, often used as a benchmark problem in control systems. Propelled on two wheels mounted with independently controlled coaxial DC motors, it carries a central payload and has a small footprint in addition to its ability to do a stationary U-turn about its vertical axis (yaw).Tasks involved controller implementation and sensor interfacing on the TMS320F28335 eZdsp platform by Texas Instruments",
+      "associates": [
+        "Sambhav Jain"
+      ]
+    }
+  ],
+  "linkedin_url": "https://www.linkedin.com/in/sambhaveee",
+  "education": [
+    {
+      "name": "Stanford University",
+      "description": "Master of Science (M.S.), Electrical Engineering, 4.107 / 4",
+      "degree": null,
+      "major": null,
+      "period": "2014 – 2016",
+      "start_date": "2014",
+      "end_date": "2016"
+    },
+    {
+      "name": "National Institute of Technology Tiruchirappalli",
+      "description": "Bachelor of Technology (B.Tech.), Electrical and Electronics Engineering, CGPA: 9.93/10",
+      "degree": null,
+      "major": null,
+      "period": "2008 – 2012",
+      "start_date": "2008",
+      "end_date": "2012"
+    },
+    {
+      "name": "Don Bosco School, Egmore, Chennai",
+      "description": "Higher Secondary School, 94.9%",
+      "degree": null,
+      "major": null,
+      "period": "1994 – 2008",
+      "start_date": "1994",
+      "end_date": "2008"
+    }
+  ],
+  "groups": [
+
+  ],
+  "websites": [
+
+  ],
+  "languages": [
+
+  ],
+  "skills": [
+    "Integrated Circuit Design",
+    "NCSim",
+    "RTL verification",
+    "System Verilog",
+    "Behavioral Modeling",
+    "TCAD",
+    "VHDL",
+    "Matlab",
+    "MSP430",
+    "Assertion Based Verification",
+    "Verilog-AMS",
+    "C++",
+    "Conformal LEC",
+    "Gate Level Simulation",
+    "Simulink",
+    "See 11+",
+    "LaTeX",
+    "Inkscape",
+    "Vector Graphics",
+    "Adobe Premiere Pro",
+    "Adobe After Effects",
+    "Public Speaking",
+    "VLSI",
+    "SoC",
+    "Functional Verification",
+    "Mixed Signal",
+    "Low-power Design",
+    "See less"
+  ],
+  "certifications": [
+
+  ],
+  "organizations": [
+
+  ],
+  "past_companies": [
+    {
+      "title": "Design Engineer",
+      "company": "Texas Instruments",
+      "description": "I help verify the functionality of power management IPs on the SoC. My technical skillset in the circuit design aspect has matured through my experience in the following domains:• Developed a functional verification strategy for power management IPs in an ultra-low power architecture, involving understanding of voltage and power domains, power mode transitions, isolation and retention techniques, and low power design fundamentals• Uncovered multiple corner case design bugs through directed stimuli-driven checkers and meticulous assertions on register transfer level and power-aware gate level simulations• Improved the quality of real-valued behavioural analog models used in mixed signal simulations by mimicking silicon behaviour closely• Assisted in checking logic equivalence, verifying functional DFT features, developing TDLs for characterization, and specification analysis to ensure design compliance",
+      "duration": "2 years 1 month",
+      "start_date": "2012-07-01",
+      "end_date": "2014-07-02",
+      "linkedin_company_url": "https://www.linkedin.com/company/texas-instruments?trk=ppro_cprof"
+    },
+    {
+      "title": "Junior Research Intern",
+      "company": "Technische Universität München",
+      "description": "During this short period, I worked with the electronic design automation group at TU Munich to explore the challenges in integrated circuit design pertaining to the aging of PMOS transistors. For further details, click on the following project link:",
+      "duration": "3 months",
+      "start_date": "2011-05-01",
+      "end_date": "2011-07-03",
+      "linkedin_company_url": "https://www.linkedin.com/company/technische-universitat-munchen?trk=ppro_cprof"
+    },
+    {
+      "title": "Junior Research Assistant",
+      "company": "Indian Institute of Technology, Madras",
+      "description": "I worked for a short while at the Dynamics and Control Lab at IIT Madras with a post graduate student on implementing a non-linear control algorithm to stabilize a mobile inverted pendulum based two wheel humanoid bot used for transport (e.g. Segway).",
+      "duration": "3 months",
+      "start_date": "2010-05-01",
+      "end_date": "2010-07-03",
+      "linkedin_company_url": "https://www.linkedin.com/company/indian-institute-of-technology-madras?trk=ppro_cprof",
+      "url": "http://www.iitm.ac.in/",
+      "website": "http://www.iitm.ac.in/",
+      "industry": "Higher Education",
+      "type": "Educational Institution",
+      "headquarters": "Indian Institute of Technology Madras\nSardar Patel Road, Adyar\nChennai,\nTamil Nadu\n600036\nIndia",
+      "company_size": "5001-10,000 employees",
+      "founded": "1959",
+      "address": "Indian Institute of Technology Madras Sardar Patel Road, Adyar Chennai, Tamil Nadu 600036 India"
+    }
+  ],
+  "current_companies": [
+    {
+      "title": "Research Assistant",
+      "company": "eXtreme Environment Microsystems Lab (XLab), Stanford",
+      "description": "- Wide bandgap semiconductors, III-Nitrides, SiC, AlN, GaN- High temperature high power operation of AlGaN/GaN high electron mobility transistors (HEMTs) for extended periods of operation in oxidizing ambients- Microstructural, electrical and thermal analysis of microgravity processed 4H-SiC single crystal substrates for improved defect kinetics and device and sensor fabrication- Pt-GaN based microscale soot sensors for harsh environment particulate matter sensing",
+      "duration": "1 year 6 months",
+      "start_date": "2014-11-01",
+      "end_date": "Present",
+      "linkedin_company_url": "https://www.linkedin.com/company/stanford-university?trk=ppro_cprof",
+      "url": "http://125.stanford.edu/",
+      "website": "http://125.stanford.edu/",
+      "industry": "Higher Education",
+      "type": "Educational Institution",
+      "headquarters": "450 Serra Mall\n\nStanford,\nCA\n94305\nUnited States",
+      "company_size": "5001-10,000 employees",
+      "address": "450 Serra Mall  Stanford, CA 94305 United States"
+    }
+  ],
+  "recommended_visitors": [
+    {
+      "link": "https://www.linkedin.com/in/banu-muthukumar-15078442?trk=pub-pbmap",
+      "name": "Banu Muthukumar",
+      "title": "Teaching Assistant",
+      "company": "University of Illinois"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lakshmanan-balasubramanian-1b60422?trk=pub-pbmap",
+      "name": "Lakshmanan Balasubramanian",
+      "title": "Lead Engineer",
+      "company": "Texas Instruments, Senior Member IEEE, MIET, CEng (EngC UK), IPRA & PRI"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sabareesh-ravikumar-a2531a36?trk=pub-pbmap",
+      "name": "Sabareesh Ravikumar",
+      "title": "CPU Physical Design Engineer",
+      "company": "Apple"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sneha-kudli-11660918?trk=pub-pbmap",
+      "name": "Sneha Kudli",
+      "title": "Software Engineer",
+      "company": "Apple"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danzhang3?trk=pub-pbmap",
+      "name": "Dan Zhang",
+      "title": "PhD student",
+      "company": "the University of Texas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/karthik-choutagunta-4182a045?trk=pub-pbmap",
+      "name": "Karthik Choutagunta",
+      "title": "PhD Student in Electrical Engineering, Stanford University",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sharmashubham267?trk=pub-pbmap",
+      "name": "Shubham Sharma",
+      "title": "MBA Candidate",
+      "company": "IIM Kozhikode"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ashutosh-dhar-02147317?trk=pub-pbmap",
+      "name": "Ashutosh Dhar",
+      "title": "Research Assistant",
+      "company": "University of Illinois - Coordinated Science Laboratory"
+    },
+    {
+      "link": "https://www.linkedin.com/in/pduraisamy?trk=pub-pbmap",
+      "name": "Padmapriya Duraisamy",
+      "title": "Software Engineering Intern (Routing Protocols)",
+      "company": "Juniper Networks"
+    },
+    {
+      "link": "https://www.linkedin.com/in/saurabhsuryavanshi?trk=pub-pbmap",
+      "name": "Saurabh Suryavanshi",
+      "title": "Graduate Student",
+      "company": "Stanford University"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "name": "Barbara Yang",
+  "first_name": "Barbara",
+  "last_name": "Yang",
+  "title": "Student at UC Berkeley",
+  "location": "San Francisco Bay Area",
+  "number_of_connections": "188",
+  "country": "San Francisco Bay Area",
+  "industry": "Design",
+  "summary": "Currently studying design and computer science at UC Berkeley.I'd love to hear about your ideas, so let's connect & chat!",
+  "picture": null,
+  "projects": [
+
+  ],
+  "linkedin_url": "https://linkedin.com/in/xbarbarayang",
+  "education": [
+
+  ],
+  "groups": [
+
+  ],
+  "websites": [
+
+  ],
+  "languages": [
+
+  ],
+  "skills": [
+
+  ],
+  "certifications": [
+
+  ],
+  "organizations": [
+
+  ],
+  "past_companies": [
+    {
+      "title": "Graphic Design Intern",
+      "company": "TreeRing",
+      "duration": "3 months",
+      "start_date": "2015-06-01",
+      "end_date": "2015-08-03",
+      "linkedin_company_url": "https://www.linkedin.com/company/treering?trk=ppro_cprof"
+    },
+    {
+      "title": "Editor in Chief",
+      "company": "Legend",
+      "duration": "5 years 11 months",
+      "start_date": "2009-08-01",
+      "end_date": "2015-06-05"
+    },
+    {
+      "title": "Ambassador",
+      "company": "Girl Scouts of Northern California",
+      "duration": "6 years 11 months",
+      "start_date": "2008-08-01",
+      "end_date": "2015-06-06",
+      "linkedin_company_url": "https://www.linkedin.com/company/girl-scouts-of-northern-california?trk=ppro_cprof"
+    },
+    {
+      "title": "Staff Artist",
+      "company": "The Charger Account",
+      "duration": "11 months",
+      "start_date": "2012-08-01",
+      "end_date": "2013-06-11"
+    }
+  ],
+  "current_companies": [
+
+  ],
+  "recommended_visitors": [
+    {
+      "link": "https://www.linkedin.com/in/rachel-tu-b8b077102?trk=pub-pbmap",
+      "name": "Rachel Tu",
+      "title": "Student & Designer",
+      "company": "University of California, Los Angeles"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-tsai-76719b55?trk=pub-pbmap",
+      "name": "Daniel Tsai",
+      "title": "Software Engineer",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sidneycli?trk=pub-pbmap",
+      "name": "Sidney Li"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joan-chen-41969699?trk=pub-pbmap",
+      "name": "Joan Chen",
+      "title": "Student",
+      "company": "Stanford University"
+    },
+    {
+      "link": "https://www.linkedin.com/in/colin-aitken-0826a95a?trk=pub-pbmap",
+      "name": "Colin Aitken",
+      "title": "Student",
+      "company": "Massachusetts Institute of Technology (MIT)"
+    },
+    {
+      "link": "https://www.linkedin.com/in/iriskim1?trk=pub-pbmap",
+      "name": "Iris Kim",
+      "title": "Student",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/cameron-loftis-939aa963?trk=pub-pbmap",
+      "name": "Cameron Loftis",
+      "title": "Student",
+      "company": "Harvard College"
+    },
+    {
+      "link": "https://www.linkedin.com/in/ranimavram?trk=pub-pbmap",
+      "name": "Rani Mavram",
+      "title": "Student",
+      "company": "University of California"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rachel-hong-6b63247b?trk=pub-pbmap",
+      "name": "Rachel Hong",
+      "title": "Student",
+      "company": "the University of Pennsylvania"
+    },
+    {
+      "link": "https://www.linkedin.com/in/adoriloshana?trk=pub-pbmap",
+      "name": "Adoril Oshana",
+      "title": "Student",
+      "company": "San Diego State University"
+    }
+  ]
+}

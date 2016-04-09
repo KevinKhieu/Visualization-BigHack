@@ -1,0 +1,144 @@
+{
+  "name": "Casey Takahashi",
+  "first_name": "Casey",
+  "last_name": "Takahashi",
+  "title": "Data Intern at Nomis Solutions",
+  "location": "San Francisco Bay Area",
+  "number_of_connections": "96",
+  "country": "San Francisco Bay Area",
+  "industry": "Computer Software",
+  "summary": null,
+  "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAATIAAAAJDc2ZDQxYzgzLWFiYjItNGMzZC1iNjdhLWY1OTNhODFmMWViYg.jpg",
+  "projects": [
+
+  ],
+  "linkedin_url": "https://www.linkedin.com/in/casey-takahashi-1025b2b8",
+  "education": [
+    {
+      "name": "University of California, Berkeley",
+      "description": "",
+      "degree": null,
+      "major": null,
+      "period": "2014 – 2018",
+      "start_date": "2014",
+      "end_date": "2018"
+    }
+  ],
+  "groups": [
+
+  ],
+  "websites": [
+
+  ],
+  "languages": [
+
+  ],
+  "skills": [
+    "Java",
+    "Python",
+    "Matlab",
+    "Scala",
+    "Microsoft Office",
+    "Programming",
+    "Software Development",
+    "SQL",
+    "LaTeX"
+  ],
+  "certifications": [
+
+  ],
+  "organizations": [
+
+  ],
+  "past_companies": [
+    {
+      "title": "Data Intern",
+      "company": "Nomis Solutions",
+      "duration": "6 months",
+      "start_date": "2015-06-01",
+      "end_date": "2015-11-06",
+      "linkedin_company_url": "https://www.linkedin.com/company/nomis-solutions?trk=ppro_cprof",
+      "url": "http://www.nomissolutions.com",
+      "website": "http://www.nomissolutions.com",
+      "industry": "Computer Software",
+      "type": "Privately Held",
+      "headquarters": "1111 Bayhill Drive\nSuite 240\nSan Bruno,\nCA\n94066\nUnited States",
+      "company_size": "51-200 employees",
+      "founded": "2004",
+      "address": "1111 Bayhill Drive Suite 240 San Bruno, CA 94066 United States"
+    },
+    {
+      "title": "Software Intern",
+      "company": "Naval Research Laboratory",
+      "description": "Wrote python scripts to read in data files and produce various graphs to improve the weather forecasting system. Researched and presented information on the hyperspectral sounders that provide data to the NRL.",
+      "duration": "3 months",
+      "start_date": "2014-06-01",
+      "end_date": "2014-08-03"
+    }
+  ],
+  "current_companies": [
+
+  ],
+  "recommended_visitors": [
+    {
+      "link": "https://www.linkedin.com/in/alexey-kuksin-058b821?trk=pub-pbmap",
+      "name": "Alexey Kuksin",
+      "title": "Big Data Architect",
+      "company": "Nomis Solutions"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yin-kai-6884b55?trk=pub-pbmap",
+      "name": "Yin Kai",
+      "title": "Senior Modeling Analyst",
+      "company": "Nomis Solutions"
+    },
+    {
+      "link": "https://www.linkedin.com/in/lchui?trk=pub-pbmap",
+      "name": "Linus Chui",
+      "title": "Business Analyst",
+      "company": "Nomis Solutions"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jmcgee88?trk=pub-pbmap",
+      "name": "Jeremy McGee",
+      "title": "Director of Analytic Services",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/nickshevyrev?trk=pub-pbmap",
+      "name": "Nik Shevyrev",
+      "title": "Senior Data Architect",
+      "company": "Nomis Solutions"
+    },
+    {
+      "link": "https://www.linkedin.com/in/acehaidrey?trk=pub-pbmap",
+      "name": "Ace Haidrey",
+      "title": "EECS Student",
+      "company": "UC Berkeley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/simonaksman?trk=pub-pbmap",
+      "name": "Simona Aksman",
+      "title": "Analytics",
+      "company": "Nomis Solutions"
+    },
+    {
+      "link": "https://www.linkedin.com/in/alvinhuang1?trk=pub-pbmap",
+      "name": "Alvin Huang",
+      "title": "Client Service Coordinator",
+      "company": "Ameriprise Financial Services, Inc."
+    },
+    {
+      "link": "https://www.linkedin.com/in/harold-king-9272a551?trk=pub-pbmap",
+      "name": "Harold King",
+      "title": "Engagement Manager",
+      "company": "Applied Predictive Technologies"
+    },
+    {
+      "link": "https://www.linkedin.com/in/neildanait?trk=pub-pbmap",
+      "name": "Neil Danait",
+      "title": "EECS Student",
+      "company": "the University of California, Berkeley"
+    }
+  ]
+}

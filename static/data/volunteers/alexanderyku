@@ -1,0 +1,182 @@
+{
+  "name": "Alexander Ku",
+  "first_name": "Alexander",
+  "last_name": "Ku",
+  "title": "Student at UC Berkeley",
+  "location": "Palo Alto",
+  "number_of_connections": "292",
+  "country": "California",
+  "industry": "Computer Software",
+  "summary": null,
+  "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAYjAAAAJGJiMjUwZWViLTMwODYtNDgzMy1hYTkwLTA2Y2VkNGI3Y2EyNw.jpg",
+  "projects": [
+
+  ],
+  "linkedin_url": "https://www.linkedin.com/in/alexanderyku",
+  "education": [
+    {
+      "name": "University of California, Berkeley",
+      "description": "BA, Computer Science",
+      "degree": null,
+      "major": null,
+      "period": "2015 – 2017",
+      "start_date": "2015",
+      "end_date": "2017"
+    },
+    {
+      "name": "Santa Clara University",
+      "description": ", Business Administration",
+      "degree": null,
+      "major": null,
+      "period": "2013 – 2015",
+      "start_date": "2013",
+      "end_date": "2015"
+    }
+  ],
+  "groups": [
+    {
+      "name": "Hadoop Users",
+      "link": "https://www.linkedin.com/groups?gid=988957&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "UC Berkeley",
+      "link": "https://www.linkedin.com/groups?gid=41675&trk=prof-groups-membership-name"
+    },
+    {
+      "name": "Bing Ads",
+      "link": "https://www.linkedin.com/groups?gid=4262869&trk=prof-groups-membership-name"
+    }
+  ],
+  "websites": [
+
+  ],
+  "languages": [
+
+  ],
+  "skills": [
+    "Data Analysis",
+    "Statistics",
+    "Python",
+    "Economics",
+    "R",
+    "Ruby",
+    "Java",
+    "JavaScript",
+    "SQL",
+    "Time Series",
+    "Spark",
+    "Hadoop",
+    "Bash",
+    "HTML",
+    "CSS",
+    "See 5+",
+    "Art",
+    "Graphic Design",
+    "Photoshop",
+    "Online Advertising",
+    "Search Engine Marketing",
+    "See less"
+  ],
+  "certifications": [
+
+  ],
+  "organizations": [
+
+  ],
+  "past_companies": [
+    {
+      "title": "Software Engineering Intern",
+      "company": "Altiscale",
+      "description": "• Software engineering intern on the data pipeline team• Working with the Data Pipeline team to do data analysis against the data warehouse• Writing data quality monitoring and alert management systems• Coding changes to the data pipelinePhase 1: June, 2015 - August, 2015Phase 2: December, 2015 - January, 2016",
+      "duration": "8 months",
+      "start_date": "2015-06-01",
+      "end_date": "2016-01-08",
+      "linkedin_company_url": "https://www.linkedin.com/company/altiscale?trk=ppro_cprof"
+    },
+    {
+      "title": "Open Market Operations (OMO) Research Assistant",
+      "company": "Santa Clara University",
+      "description": "• Predictive modeling of Moody's soverign debt rating• Data analysis and modeling in R",
+      "duration": "8 months",
+      "start_date": "2014-11-01",
+      "end_date": "2015-06-08",
+      "linkedin_company_url": "https://www.linkedin.com/company/santa-clara-university?trk=ppro_cprof"
+    },
+    {
+      "title": "Marketing Design Intern",
+      "company": "SPRIO.NET",
+      "description": "• Worked with marketing collateral, advertising and product design.",
+      "duration": "3 months",
+      "start_date": "2014-07-01",
+      "end_date": "2014-09-03",
+      "linkedin_company_url": "https://www.linkedin.com/company/sprio-net?trk=ppro_cprof",
+      "url": "http://sprio.net",
+      "website": "http://sprio.net",
+      "industry": "Computer Software",
+      "type": "Privately Held",
+      "company_size": "1-10 employees",
+      "founded": "2013"
+    }
+  ],
+  "current_companies": [
+
+  ],
+  "recommended_visitors": [
+    {
+      "link": "https://www.linkedin.com/in/katherine-tovar-a475472b?trk=pub-pbmap",
+      "name": "Katherine Tovar",
+      "title": "Transportation Coordinator",
+      "company": "SVJPA"
+    },
+    {
+      "link": "https://www.linkedin.com/in/nicholasfarn?trk=pub-pbmap",
+      "name": "Nicholas Farn",
+      "title": "CS Lab Intern",
+      "company": "Computer Science and Engineering Department"
+    },
+    {
+      "link": "https://www.linkedin.com/in/fabian-haas-b23033101?trk=pub-pbmap",
+      "name": "Fabian Haas",
+      "title": "Student",
+      "company": "Saint Mary\"s College of California"
+    },
+    {
+      "link": "https://www.linkedin.com/in/chrisrbyrnes?trk=pub-pbmap",
+      "name": "Chris Byrnes",
+      "title": "Manager, Insurance Services",
+      "company": "RPX Corporation"
+    },
+    {
+      "link": "https://www.linkedin.com/in/howard-weingram-464680?trk=pub-pbmap",
+      "name": "Howard Weingram"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jackiedoong?trk=pub-pbmap",
+      "name": "Jackie Doong",
+      "title": "UX Designer",
+      "company": "Amazon"
+    },
+    {
+      "link": "https://www.linkedin.com/in/elaine-chao-3289751a?trk=pub-pbmap",
+      "name": "Elaine Chao",
+      "title": "Director of Legal, Associate General Counsel",
+      "company": "MobileIron"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shreem?trk=pub-pbmap",
+      "name": "Shree Madhavapeddi",
+      "title": "Product @ Google",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/anwei-li-5b42711?trk=pub-pbmap",
+      "name": "Anwei Li"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kathryn-tovar-3b4431103?trk=pub-pbmap",
+      "name": "Kathryn Tovar",
+      "title": "Student",
+      "company": "University of California, Berkeley"
+    }
+  ]
+}

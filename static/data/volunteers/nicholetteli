@@ -1,0 +1,177 @@
+{
+  "name": "Nicholette Li",
+  "first_name": "Nicholette",
+  "last_name": "Li",
+  "title": "Software Engineer Internship at Emergent Payments",
+  "location": "Singapore",
+  "number_of_connections": "63",
+  "country": "Singapore",
+  "industry": "Computer Software",
+  "summary": null,
+  "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAG_AAAAJDZjYTExM2Y0LTk2NGMtNDVhNS1hMzZmLWI4ZjdhZmRhYWFhOA.jpg",
+  "projects": [
+
+  ],
+  "linkedin_url": "https://sg.linkedin.com/in/nicholetteli",
+  "education": [
+    {
+      "name": "National University of Singapore",
+      "description": "Bachelor's degree, Computer Science, 4.42/5",
+      "degree": null,
+      "major": null,
+      "period": "2013 – 2017",
+      "start_date": "2013",
+      "end_date": "2017"
+    },
+    {
+      "name": "Dunman High School",
+      "description": "Singapore-Cambridge GCE Advanced Level, H2 Mathematics, H2 Chemistry, H2 Biology, H2 History, H1 Project Work, H1 General Paper, 86.25 / 90 (University Ranking Point)",
+      "degree": null,
+      "major": null,
+      "period": "2007 – 2012",
+      "start_date": "2007",
+      "end_date": "2012"
+    }
+  ],
+  "groups": [
+
+  ],
+  "websites": [
+
+  ],
+  "languages": [
+
+  ],
+  "skills": [
+    "Java",
+    "Data Structures",
+    "Algorithms",
+    "Swift",
+    "Xcode",
+    "iOS Development",
+    "Android Development",
+    "Git",
+    "Photoshop",
+    "C",
+    "Google App Engine",
+    "C#",
+    "WPF Development",
+    "JavaScript",
+    "HTML5",
+    "CSS"
+  ],
+  "certifications": [
+
+  ],
+  "organizations": [
+
+  ],
+  "past_companies": [
+    {
+      "title": "Software Engineer Internship",
+      "company": "DSO National Laboratories",
+      "description": "Worked on front-end Windows application with Windows Presentation Foundation in C#",
+      "duration": "3 months",
+      "start_date": "2015-05-01",
+      "end_date": "2015-07-03",
+      "linkedin_company_url": "https://www.linkedin.com/company/dso-national-laboratories?trk=ppro_cprof"
+    },
+    {
+      "title": "Intern",
+      "company": "Pear Comms",
+      "description": "Mobile App Development (Android)",
+      "duration": "1 month",
+      "start_date": "2014-12-01",
+      "end_date": "2014-12-01",
+      "linkedin_company_url": "https://www.linkedin.com/company/pear-comms?trk=ppro_cprof"
+    }
+  ],
+  "current_companies": [
+    {
+      "title": "Software Engineer Internship",
+      "company": "Emergent Payments",
+      "duration": "9 months",
+      "start_date": "2015-08-01",
+      "end_date": "Present",
+      "linkedin_company_url": "https://www.linkedin.com/company/livegamer?trk=ppro_cprof",
+      "url": "http://www.emergentpayments.net/",
+      "website": "http://www.emergentpayments.net/",
+      "industry": "Internet",
+      "type": "Privately Held",
+      "headquarters": "580 College Avenue\n\nPalo Alto,\nCA\n94306\nUnited States",
+      "company_size": "51-200 employees",
+      "founded": "2007",
+      "address": "580 College Avenue  Palo Alto, CA 94306 United States"
+    },
+    {
+      "title": "Computer Science Undegraduate",
+      "company": "National University of Singapore",
+      "duration": "2 years 9 months",
+      "start_date": "2013-08-01",
+      "end_date": "Present",
+      "linkedin_company_url": "https://www.linkedin.com/company/national-university-of-singapore?trk=ppro_cprof"
+    }
+  ],
+  "recommended_visitors": [
+    {
+      "link": "https://sg.linkedin.com/in/vietdung?trk=pub-pbmap",
+      "name": "Jarvis Nguyen",
+      "title": "Software Developer",
+      "company": "Pearcomms"
+    },
+    {
+      "link": "https://sg.linkedin.com/in/imwaihon?trk=pub-pbmap",
+      "name": "Waihon Chee",
+      "title": "Software Engineering Intern",
+      "company": "Flux Factory"
+    },
+    {
+      "link": "https://sg.linkedin.com/in/jun-hao-yap-544b3492?trk=pub-pbmap",
+      "name": "Jun Hao Yap",
+      "title": "Software Engineering Intern",
+      "company": "Wondermall"
+    },
+    {
+      "link": "https://sg.linkedin.com/in/ssamuelcho?trk=pub-pbmap",
+      "name": "Samuel Cho",
+      "title": "Customer Success",
+      "company": "Workato"
+    },
+    {
+      "link": "https://sg.linkedin.com/in/xiangxin-sun-10033045?trk=pub-pbmap",
+      "name": "Xiangxin Sun",
+      "title": "Software Engineer",
+      "company": "GrabTaxi"
+    },
+    {
+      "link": "https://sg.linkedin.com/in/sunwangjun?trk=pub-pbmap",
+      "name": "Wang Jun Sun",
+      "title": "Software Engineering Intern",
+      "company": "Google"
+    },
+    {
+      "link": "https://sg.linkedin.com/in/michelletanjm?trk=pub-pbmap",
+      "name": "Michelle Tan",
+      "title": "Intern",
+      "company": "Oddle"
+    },
+    {
+      "link": "https://sg.linkedin.com/in/zi-xian-qua-32574035?trk=pub-pbmap",
+      "name": "Zi Xian Qua",
+      "title": "Software Engineer Intern",
+      "company": "WORKS APPLICATIONS"
+    },
+    {
+      "link": "https://sg.linkedin.com/in/suezh?trk=pub-pbmap",
+      "name": "Zheng Hao Sue",
+      "title": "Student",
+      "company": "National University of Singapore"
+    },
+    {
+      "link": "https://sg.linkedin.com/in/haritharamesh?trk=pub-pbmap",
+      "name": "Haritha Ramesh",
+      "title": "Software Engineering Intern",
+      "company": "UpGuard"
+    }
+  ]
+}

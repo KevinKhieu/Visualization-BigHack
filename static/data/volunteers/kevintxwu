@@ -1,0 +1,199 @@
+{
+  "name": "Kevin Wu",
+  "first_name": "Kevin",
+  "last_name": "Wu",
+  "title": "Founder at Unboard, President at Blueprint",
+  "location": "Berkeley",
+  "number_of_connections": "500+",
+  "country": "California",
+  "industry": "Computer Software",
+  "summary": "kevinandstuff.com",
+  "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAa1AAAAJGE2MDEwYjlhLTg5ZDAtNDFkNi1hM2VmLTA0MjgwNjUzZTRjYQ.jpg",
+  "projects": [
+
+  ],
+  "linkedin_url": "https://www.linkedin.com/in/kevintxwu",
+  "education": [
+    {
+      "name": "University of California, Berkeley",
+      "description": "Bachelor of Science (BS), Electrical Engineering & Computer Science",
+      "degree": null,
+      "major": null,
+      "period": "2013 – 2016",
+      "start_date": "2013",
+      "end_date": "2016"
+    }
+  ],
+  "groups": [
+
+  ],
+  "websites": [
+
+  ],
+  "languages": [
+
+  ],
+  "skills": [
+    "JavaScript",
+    "User Experience",
+    "Mobile Applications",
+    "HTML5",
+    "Git",
+    "Entrepreneurship",
+    "Illustrator",
+    "Graphic Design",
+    "Potatoes",
+    "Python",
+    "Startup Development",
+    "CSS",
+    "Java",
+    "Ruby on Rails",
+    "Photoshop",
+    "See 5+",
+    "PHP",
+    "jQuery",
+    "Programming",
+    "C++",
+    "Data Analysis",
+    "See less"
+  ],
+  "certifications": [
+
+  ],
+  "organizations": [
+
+  ],
+  "past_companies": [
+    {
+      "title": "Instructor",
+      "company": "Camp Sudo",
+      "duration": "1 month",
+      "start_date": "2015-08-01",
+      "end_date": "2015-08-01",
+      "linkedin_company_url": "https://www.linkedin.com/company/camp-sudo?trk=ppro_cprof",
+      "url": "http://www.campsudo.org",
+      "website": "http://www.campsudo.org",
+      "industry": "Education Management",
+      "type": "Nonprofit",
+      "company_size": "1-10 employees",
+      "founded": "2015"
+    },
+    {
+      "title": "Web Developer, UI/UX Designer",
+      "company": "Leada",
+      "duration": "4 months",
+      "start_date": "2015-05-01",
+      "end_date": "2015-08-04",
+      "linkedin_company_url": "https://www.linkedin.com/company/leada?trk=ppro_cprof"
+    },
+    {
+      "title": "Mobile Developer, UI/UX Designer",
+      "company": "Salesforce",
+      "duration": "7 months",
+      "start_date": "2014-02-01",
+      "end_date": "2014-08-07",
+      "linkedin_company_url": "https://www.linkedin.com/company/salesforce?trk=ppro_cprof"
+    },
+    {
+      "title": "Co-Founder, CEO",
+      "company": "Outgame",
+      "description": "Outgame aims to incorporate organized statistics, streamlined event management, player profiles and much more to both tabletop and video games. We've partnered with stores like Games of Berkeley and companies like Workday to manage events with up to $25,000 in prizes and hundreds of participants.",
+      "duration": "1 year 4 months",
+      "start_date": "2012-11-01",
+      "end_date": "2014-02-01"
+    }
+  ],
+  "current_companies": [
+    {
+      "title": "Founder, CEO",
+      "company": "Unboard",
+      "description": "Unboard brings the magic of tabletop games to the mobile world. We were in the accelerator Free Ventures for Fall 2014 and are partnering with the company Indie Boards and Cards, the board game publisher of games like Coup, The Resistance, and Flash Point.",
+      "duration": "1 year 9 months",
+      "start_date": "2014-08-01",
+      "end_date": "Present",
+      "linkedin_company_url": "https://www.linkedin.com/company/unboard?trk=ppro_cprof",
+      "url": "http://www.unboard.io/",
+      "website": "http://www.unboard.io/",
+      "industry": "Entertainment",
+      "type": "Privately Held",
+      "company_size": "1-10 employees",
+      "founded": "2014"
+    },
+    {
+      "title": "President",
+      "company": "Blueprint, Technology for Non-Profits",
+      "duration": "2 years 8 months",
+      "start_date": "2013-09-01",
+      "end_date": "Present",
+      "linkedin_company_url": "https://www.linkedin.com/company/blueprint-technology-for-non-profits?trk=ppro_cprof"
+    },
+    {
+      "title": "Game Designer",
+      "company": "Hobo Labs",
+      "duration": "9 months",
+      "start_date": "2015-08-01",
+      "end_date": "Present",
+      "linkedin_company_url": "https://www.linkedin.com/company/hobo-labs?trk=ppro_cprof"
+    }
+  ],
+  "recommended_visitors": [
+    {
+      "link": "https://www.linkedin.com/in/dianecwang?trk=pub-pbmap",
+      "name": "Diane Wang",
+      "title": "CS 160/260A UGSI",
+      "company": "UC Berkeley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/daniel-tsai-76719b55?trk=pub-pbmap",
+      "name": "Daniel Tsai",
+      "title": "Software Engineer",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jordeen?trk=pub-pbmap",
+      "name": "Jordeen Chang",
+      "title": "Student",
+      "company": "University of California, Berkeley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/soosong?trk=pub-pbmap",
+      "name": "Soo Song",
+      "title": "Incoming Content Marketing Intern",
+      "company": "Autodesk"
+    },
+    {
+      "link": "https://www.linkedin.com/in/yangisabel?trk=pub-pbmap",
+      "name": "Isabel Yang"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joel-jacobs-7ab250a3?trk=pub-pbmap",
+      "name": "Joel Jacobs",
+      "title": "Student",
+      "company": "University of California, Berkeley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/christinaszhu?trk=pub-pbmap",
+      "name": "Christina Zhu",
+      "title": "Co-Founder @ HackDavis",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/anthonyanthony?trk=pub-pbmap",
+      "name": "Anthony Huang",
+      "title": "Product Intern",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/marshall-cheng-45a80992?trk=pub-pbmap",
+      "name": "Marshall Cheng",
+      "title": "Student",
+      "company": "University of California, San Diego"
+    },
+    {
+      "link": "https://www.linkedin.com/in/danieljaysun?trk=pub-pbmap",
+      "name": "Daniel Sun",
+      "title": "Student",
+      "company": "Berkeley Haas School of Business"
+    }
+  ]
+}

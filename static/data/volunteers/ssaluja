@@ -1,0 +1,146 @@
+{
+  "name": "Samridh Saluja",
+  "first_name": "Samridh",
+  "last_name": "Saluja",
+  "title": "CS & Design at UC Berkeley",
+  "location": "Berkeley",
+  "number_of_connections": "301",
+  "country": "California",
+  "industry": "Computer Software",
+  "summary": "Embarked on a four year journey to study Computer Science at UC Berkeley and to learn about the world. I am driven not by merely doing but by experiencing new things and sharing that experience with others.I am passionate about innovative design, building prototypes, hacking systems and leading change.When I am not brainstorming ideas and solutions with my friends, you can find me on the squash court, playing for the Cal’s Mens squash team. Through high school I have experienced Independent research which I published & presented in the form of a paper at International Conference. Today, I work to make a tangible difference in the world through my knowledge. Always excited to learn new things and meet new people.",
+  "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAM5AAAAJDkxZDc5NzE2LWRmMWItNDE3MS04ODMyLWE2OWMyZjdmM2Q3Yw.jpg",
+  "projects": [
+
+  ],
+  "linkedin_url": "https://www.linkedin.com/in/ssaluja",
+  "education": [
+    {
+      "name": "University of California, Berkeley",
+      "description": "Bachelor's degree, Computer Science",
+      "degree": null,
+      "major": null,
+      "period": "2014 – 2018",
+      "start_date": "2014",
+      "end_date": "2018"
+    },
+    {
+      "name": "The International School, Bangalore",
+      "description": "International Baccalaureate, Science, French, Economics",
+      "degree": null,
+      "major": null,
+      "period": "2012 – 2014",
+      "start_date": "2012",
+      "end_date": "2014"
+    },
+    {
+      "name": "National Public School, Bangalore",
+      "description": "High School - Grade X",
+      "degree": null,
+      "major": null,
+      "period": "2009 – 2012",
+      "start_date": "2009",
+      "end_date": "2012"
+    }
+  ],
+  "groups": [
+
+  ],
+  "websites": [
+
+  ],
+  "languages": [
+
+  ],
+  "skills": [
+
+  ],
+  "certifications": [
+
+  ],
+  "organizations": [
+
+  ],
+  "past_companies": [
+
+  ],
+  "current_companies": [
+    {
+      "title": "Partner",
+      "company": "Venture Capital @ Berkeley",
+      "description": "Venture Capital @ Berkeley is an independent student-run seed fund empowering undergrad's early stage startups in the Berkeley community",
+      "duration": "1 year 4 months",
+      "start_date": "2015-01-01",
+      "end_date": "Present"
+    },
+    {
+      "title": "Instructor & Lead Developer",
+      "company": "3DMC – AutoDesk, 3D Printing Campus Organization, Berkeley, CA",
+      "description": "• Leading club of over 50 students and organizing university-wide projects to evangelize 3D printing• Teaching class on 3D printing, designing & modeling sponsored by Autodesk• Lead developer for club website and 3D printing ecommerce platform (still in works)",
+      "duration": "1 year 11 months",
+      "start_date": "2014-06-01",
+      "end_date": "Present"
+    }
+  ],
+  "recommended_visitors": [
+    {
+      "link": "https://www.linkedin.com/in/agni-bhattacharya-90a58498?trk=pub-pbmap",
+      "name": "Agni Bhattacharya",
+      "title": "Charles R. Westgate Scholar",
+      "company": "The Johns Hopkins University"
+    },
+    {
+      "link": "https://www.linkedin.com/in/rahulxverma?trk=pub-pbmap",
+      "name": "Rahul Verma",
+      "title": "Software Engineering Intern",
+      "company": "Symantec"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sandeepravi?trk=pub-pbmap",
+      "name": "Sandeep Ravi",
+      "title": "Master's Intern",
+      "company": "Veritas Technologies LLC and Looking for Software Engineering positions"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sudhanshu-nath-mishra-84505760?trk=pub-pbmap",
+      "name": "Sudhanshu Nath Mishra",
+      "title": "Incoming Summer Business Analyst",
+      "company": "McKinsey & Company"
+    },
+    {
+      "link": "https://www.linkedin.com/in/hmshah?trk=pub-pbmap",
+      "name": "Harsh Shah",
+      "title": "Software Developer",
+      "company": "Intel"
+    },
+    {
+      "link": "https://www.linkedin.com/in/bhavna-gopal-8984b9a9?trk=pub-pbmap",
+      "name": "Bhavna Gopal",
+      "title": "UC Berkeley Research Assistant",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/rajaviswaratha?trk=pub-pbmap",
+      "name": "Raja Viswaratha",
+      "title": "Engineering Intern",
+      "company": "Symantec"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jyotsnamagani?trk=pub-pbmap",
+      "name": "Jyotsna Magani",
+      "title": "Software Engineering Intern",
+      "company": "Symantec"
+    },
+    {
+      "link": "https://www.linkedin.com/in/sukoontandon?trk=pub-pbmap",
+      "name": "Sukoon Tandon",
+      "title": "MBA Candidate",
+      "company": "The University of Texas"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jajoosagar?trk=pub-pbmap",
+      "name": "Sagar Jajoo",
+      "title": "Project Manager",
+      "company": "Berkeley Business Society"
+    }
+  ]
+}

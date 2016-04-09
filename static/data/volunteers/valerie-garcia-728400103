@@ -1,0 +1,168 @@
+{
+  "name": "Valerie Garcia",
+  "first_name": "Valerie",
+  "last_name": "Garcia",
+  "title": "Major in Computer Science and Mechanical Engineering",
+  "location": "Dallas",
+  "number_of_connections": "109",
+  "country": "Texas",
+  "industry": "Computer Software",
+  "summary": "I am an engineering freshman at Stanford University looking for research or internship opportunities that can give me experience in my computer science and mechanical engineering interests.",
+  "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAI2AAAAJGE4MWJhZDQ4LTE4NjctNDU3NC05NjdjLTc0M2FiNzY2ODIyMA.jpg",
+  "projects": [
+    {
+      "title": "exCite",
+      "link": null,
+      "start_date": null,
+      "end_date": null,
+      "description": "A Chrome web extension to help people cite their sources. Allows user to check-box their search history and cites the selected sources. ",
+      "associates": [
+        "Valerie Garcia",
+        "David Boone Jr."
+      ]
+    }
+  ],
+  "linkedin_url": "https://www.linkedin.com/in/valerie-garcia-728400103",
+  "education": [
+    {
+      "name": "Stanford University",
+      "description": "Bachelor’s Degree, Computer Science and Mechanical Engineering, Freshman",
+      "degree": null,
+      "major": null,
+      "period": "2015 – 2019",
+      "start_date": "2015",
+      "end_date": "2019"
+    },
+    {
+      "name": "Plano West Senior High School",
+      "description": "High School, 4.65 GPA, Rank 27/1525 (top 2%)",
+      "degree": null,
+      "major": null,
+      "period": "2013 – 2015",
+      "start_date": "2013",
+      "end_date": "2015"
+    }
+  ],
+  "groups": [
+
+  ],
+  "websites": [
+
+  ],
+  "languages": [
+
+  ],
+  "skills": [
+    "Java",
+    "C++",
+    "C",
+    "Spanish",
+    "Leadership",
+    "Teamwork",
+    "Communication",
+    "Arduino",
+    "Matlab",
+    "JavaScript"
+  ],
+  "certifications": [
+
+  ],
+  "organizations": [
+
+  ],
+  "past_companies": [
+    {
+      "title": "Activity Coach",
+      "company": "Margaret's Treehouse",
+      "description": "● Designed STEM activities for children age 6 - 13 with disadvantage or special needs● Managed afternoon staff in teaching STEM activities and adapting plans to different skill levels● Increased average math proficiency of students by %20",
+      "duration": "3 months",
+      "start_date": "2015-06-01",
+      "end_date": "2015-08-03"
+    },
+    {
+      "title": "Intern",
+      "company": "Baylor Regional Medical Center at Plano",
+      "description": "● Researched and wrote health centric blogs and advertisements● Interviewed doctors and researchers in order to write for hospital publications● Planned and organized professional staff events and community outreach health events",
+      "duration": "3 months",
+      "start_date": "2014-06-01",
+      "end_date": "2014-08-03",
+      "linkedin_company_url": "https://www.linkedin.com/company/baylor-regional-medical-center-at-plano?trk=ppro_cprof",
+      "industry": "Hospital & Health Care",
+      "headquarters": "1650 W College St\nGrapevine,\nTexas\n76051\nUnited States",
+      "company_size": "51-200 employees",
+      "address": "1650 W College St Grapevine, Texas 76051 United States"
+    },
+    {
+      "title": "Camp Counselor",
+      "company": "LIFETIME FITNESS",
+      "description": "Supervised and organized campers age 5 - 11 at summer camp",
+      "duration": "2 months",
+      "start_date": "2014-06-01",
+      "end_date": "2014-07-02",
+      "linkedin_company_url": "https://www.linkedin.com/company/lifetime-fitness?trk=ppro_cprof"
+    }
+  ],
+  "current_companies": [
+
+  ],
+  "recommended_visitors": [
+    {
+      "link": "https://www.linkedin.com/in/reynaldo-barcel%C3%B3-89b20bb2?trk=pub-pbmap",
+      "name": "Reynaldo Barceló",
+      "title": "CS Student",
+      "company": "Stanford University"
+    },
+    {
+      "link": "https://www.linkedin.com/in/kathomps?trk=pub-pbmap",
+      "name": "Kirsten Thompson",
+      "title": "Research Assistant",
+      "company": "Stanford University, Department of Bioengineering"
+    },
+    {
+      "link": "https://www.linkedin.com/in/matthewxoconnell?trk=pub-pbmap",
+      "name": "Matthew O'Connell",
+      "title": "Software Developer",
+      "company": "International Pharmaceutical Federation (FIP)"
+    },
+    {
+      "link": "https://www.linkedin.com/in/jasminedoan?trk=pub-pbmap",
+      "name": "Jasmine Doan",
+      "title": "Student",
+      "company": "Stanford University"
+    },
+    {
+      "link": "https://www.linkedin.com/in/shankarshreya?trk=pub-pbmap",
+      "name": "Shreya Shankar",
+      "title": "CS106A Section Leader",
+      "company": "Stanford University"
+    },
+    {
+      "link": "https://www.linkedin.com/in/xochitl-longstaff-31a07a104?trk=pub-pbmap",
+      "name": "Xochitl Longstaff",
+      "title": "Library Assistant",
+      "company": "Stanford Terman Engineering Library"
+    },
+    {
+      "link": "https://www.linkedin.com/in/anika-raghuvanshi-75918573?trk=pub-pbmap",
+      "name": "Anika Raghuvanshi",
+      "title": "Stanford Computer Science '19",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/elizabethsdavis?trk=pub-pbmap",
+      "name": "Elizabeth Davis",
+      "title": "Software Engineering Intern",
+      "company": "Pinterest"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aqchen?trk=pub-pbmap",
+      "name": "Angela Chen",
+      "title": "Student",
+      "company": "Stanford University"
+    },
+    {
+      "link": "https://www.linkedin.com/in/noe-pablo-lozano-a64a911?trk=pub-pbmap",
+      "name": "Noe Pablo Lozano"
+    }
+  ]
+}

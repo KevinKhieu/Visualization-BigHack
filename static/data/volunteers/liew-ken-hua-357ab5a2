@@ -1,0 +1,160 @@
+{
+  "name": "Liew Ken Hua",
+  "first_name": "Liew",
+  "last_name": "Ken Hua",
+  "title": "Student at NUS School of Computing",
+  "location": "Singapore",
+  "number_of_connections": "87",
+  "country": "Singapore",
+  "industry": "Computer Software",
+  "summary": null,
+  "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/5/005/082/3d1/0d48171.jpg",
+  "projects": [
+
+  ],
+  "linkedin_url": "https://sg.linkedin.com/in/liew-ken-hua-357ab5a2",
+  "education": [
+    {
+      "name": "National University of Singapore",
+      "description": "Bachelor's degree, Computer Engineering",
+      "degree": null,
+      "major": null,
+      "period": "2013 – 2017",
+      "start_date": "2013",
+      "end_date": "2017"
+    }
+  ],
+  "groups": [
+    {
+      "name": "Global Entrepreneurial Marketing (GEM) community at Stanford",
+      "link": "https://sg.linkedin.com/groups?gid=7040372&trk=prof-groups-membership-name"
+    }
+  ],
+  "websites": [
+
+  ],
+  "languages": [
+
+  ],
+  "skills": [
+    "Programming",
+    "Java",
+    "Python",
+    "Eclipse",
+    "Online Research",
+    "Qualitative Research",
+    "Microsoft Word",
+    "Working With Children",
+    "PowerPoint",
+    "Microsoft Office",
+    "Microsoft Excel",
+    "Event Management",
+    "VHDL",
+    "Photoshop"
+  ],
+  "certifications": [
+
+  ],
+  "organizations": [
+
+  ],
+  "past_companies": [
+    {
+      "title": "Student",
+      "company": "NUS School of Computing",
+      "duration": null,
+      "start_date": null,
+      "end_date": null,
+      "linkedin_company_url": "https://www.linkedin.com/company/nuscomputing?trk=ppro_cprof",
+      "url": "http://www.comp.nus.edu.sg",
+      "website": "http://www.comp.nus.edu.sg",
+      "industry": "Higher Education",
+      "type": "Educational Institution",
+      "headquarters": "NUS School of Computing\n13 Computing Drive\nSingapore,\nSingapore\n117417\nSingapore",
+      "company_size": "10,001+ employees",
+      "founded": "1998",
+      "address": "NUS School of Computing 13 Computing Drive Singapore, Singapore 117417 Singapore"
+    },
+    {
+      "title": "Tutor",
+      "company": "Leap Learning",
+      "description": "I taught primary school children Maths and Science (Electronics).",
+      "duration": "4 months",
+      "start_date": "2013-02-01",
+      "end_date": "2013-05-04"
+    },
+    {
+      "title": "Telemarketer",
+      "company": "Thomvell",
+      "description": "I marketed a secretary conference to secretaries around KL via telemarketing.",
+      "duration": "3 months",
+      "start_date": "2013-02-01",
+      "end_date": "2013-04-03"
+    }
+  ],
+  "current_companies": [
+
+  ],
+  "recommended_visitors": [
+    {
+      "link": "https://sg.linkedin.com/in/kennylsh?trk=pub-pbmap",
+      "name": "Kenny Liew",
+      "title": "National Executive Director (SG)",
+      "company": "International Council of Malaysian Scholars and Associates"
+    },
+    {
+      "link": "https://sg.linkedin.com/in/jessicakhy?trk=pub-pbmap",
+      "name": "Jessica Koh Huey Yee",
+      "title": "Undergraduate",
+      "company": "National University of Singapore"
+    },
+    {
+      "link": "https://sg.linkedin.com/in/zhang-you-tan-a4990ba6?trk=pub-pbmap",
+      "name": "Zhang-You Tan",
+      "title": "Actuary Intern",
+      "company": "Tenet Sompo Insurance Pte Ltd"
+    },
+    {
+      "link": "https://sg.linkedin.com/in/kenlsm?trk=pub-pbmap",
+      "name": "Ken Lee",
+      "title": "Software Engineer (Intern)",
+      "company": "Crowdbooster"
+    },
+    {
+      "link": "https://sg.linkedin.com/in/kit-weng-kit-a847a51b?trk=pub-pbmap",
+      "name": "Kit Weng Kit",
+      "title": "--",
+      "company": null
+    },
+    {
+      "link": "https://sg.linkedin.com/in/malyatha-shridharan-34b8a7110?trk=pub-pbmap",
+      "name": "Malyatha Shridharan",
+      "title": "Data Science & Software Engineering Intern",
+      "company": "AppZen"
+    },
+    {
+      "link": "https://sg.linkedin.com/in/ericpcw316?trk=pub-pbmap",
+      "name": "Eric Poon",
+      "title": "Director of Volunteer Development",
+      "company": "National University of Singapore Students' Union (NUSSU)"
+    },
+    {
+      "link": "https://sg.linkedin.com/in/stanleyweiwenong?trk=pub-pbmap",
+      "name": "Stanley Wei Wen Ong",
+      "title": "Software Developer",
+      "company": "Stellar Loyalty"
+    },
+    {
+      "link": "https://sg.linkedin.com/in/jia-chai-low-5a0882b6?trk=pub-pbmap",
+      "name": "Jia Chai Low",
+      "title": "IoTONE | Internet of Things (IoT)",
+      "company": null
+    },
+    {
+      "link": "https://sg.linkedin.com/in/timothy-oh-25989ba2?trk=pub-pbmap",
+      "name": "Timothy Oh",
+      "title": "3rd Year Student",
+      "company": "NUS School of Computing"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "name": "Alice Deng",
+  "first_name": "Alice",
+  "last_name": "Deng",
+  "title": "Student at UC Berkeley",
+  "location": "San Francisco Bay Area",
+  "number_of_connections": "500+",
+  "country": "San Francisco Bay Area",
+  "industry": "Financial Services",
+  "summary": null,
+  "picture": null,
+  "projects": [
+
+  ],
+  "linkedin_url": "https://www.linkedin.com/in/alicedeng",
+  "education": [
+    {
+      "name": "University of California, Berkeley, Haas School of Business",
+      "description": "Bachelor of Science (B.S.)",
+      "degree": null,
+      "major": null,
+      "period": "2014 – 2018",
+      "start_date": "2014",
+      "end_date": "2018"
+    },
+    {
+      "name": "Amador Valley High School",
+      "description": "",
+      "degree": null,
+      "major": null,
+      "period": "2010 – 2014",
+      "start_date": "2010",
+      "end_date": "2014"
+    }
+  ],
+  "groups": [
+
+  ],
+  "websites": [
+
+  ],
+  "languages": [
+
+  ],
+  "skills": [
+
+  ],
+  "certifications": [
+
+  ],
+  "organizations": [
+
+  ],
+  "past_companies": [
+
+  ],
+  "current_companies": [
+
+  ],
+  "recommended_visitors": [
+    {
+      "link": "https://www.linkedin.com/in/chowderrick?trk=pub-pbmap",
+      "name": "Derrick Chow",
+      "title": "Student",
+      "company": "University of California, Berkeley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/joanhong?trk=pub-pbmap",
+      "name": "Joan Hong",
+      "title": "Course Producer",
+      "company": "University of Southern California"
+    },
+    {
+      "link": "https://www.linkedin.com/in/tongraymond?trk=pub-pbmap",
+      "name": "Raymond Tong",
+      "title": "Real Estate Private Equity - Morgan Stanley",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/albertlin7?trk=pub-pbmap",
+      "name": "Albert Lin",
+      "title": "Venture Capital Summer Analyst",
+      "company": "Industry Ventures"
+    },
+    {
+      "link": "https://www.linkedin.com/in/akshay-patel-451a5999?trk=pub-pbmap",
+      "name": "Akshay Patel",
+      "title": "Student",
+      "company": "University of California, Berkeley"
+    },
+    {
+      "link": "https://www.linkedin.com/in/davidliang1?trk=pub-pbmap",
+      "name": "David Liang",
+      "title": "UC Berkeley - Walter A. Haas School of Business '17",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/thomas-lee-ab270267?trk=pub-pbmap",
+      "name": "Thomas Lee",
+      "title": "Research Analyst Intern",
+      "company": "FMV Opinions, Inc."
+    },
+    {
+      "link": "https://www.linkedin.com/in/hudsonattar?trk=pub-pbmap",
+      "name": "Hudson Attar",
+      "title": "Private Equity Summer Analyst",
+      "company": "Spanos Barber Jesse & Co."
+    },
+    {
+      "link": "https://www.linkedin.com/in/emilyyliu96?trk=pub-pbmap",
+      "name": "Emily Liu",
+      "title": "UC Berkeley | Marketing and Graphic Design",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/samansabeti?trk=pub-pbmap",
+      "name": "Sam Sabeti",
+      "title": "Spring Intern",
+      "company": "Spectrum Equity"
+    }
+  ]
+}

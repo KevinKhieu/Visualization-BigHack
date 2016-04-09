@@ -1,0 +1,151 @@
+{
+  "name": "Hidetaka Ko",
+  "first_name": "Hidetaka",
+  "last_name": "Ko",
+  "title": "Software Engineer Internship - Exploratory.io",
+  "location": "日本 大阪府",
+  "number_of_connections": "82",
+  "country": "日本 大阪府",
+  "industry": "IT ・情報サービス",
+  "summary": null,
+  "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAKDAAAAJGM3OTljZWJkLTk1NzctNDMwMi1hZjc2LWNhZTMwYmI2NWY5ZQ.jpg",
+  "projects": [
+    {
+      "title": "Japan Private-Public Partnership TOBITATE young ambassador",
+      "link": "https://www.youtube.com/watch?v=eGFbGZG5UqM",
+      "start_date": null,
+      "end_date": null,
+      "description": " I was accepted in this young ambassador program called TOBITATE.The Ministry of Education, Culture, Sports, Science and Technology (MEXT) and the Japan Student Services Organization (JASSO) have launched a new joint initiative with the private sector to support Japanese students studying abroad (since FY2014). Putting simply, this has two merits for me.1.Much money which I don't have to reply.2.I can join the community which famous company funding this program in Japan and 10000 study abroad student which will study abroad to more than 100 countries by 2020.https://www.youtube.com/watch?v=eGFbGZG5UqM",
+      "associates": [
+        "Hidetaka Ko"
+      ]
+    },
+    {
+      "title": "トビタテジャーナル",
+      "link": "http://tobitate-student.com/",
+      "start_date": null,
+      "end_date": null,
+      "description": "Study abroad's web media",
+      "associates": [
+        "Hidetaka Ko"
+      ]
+    }
+  ],
+  "linkedin_url": "https://jp.linkedin.com/in/hidetaka-ko-078b8695",
+  "education": [
+    {
+      "name": "Doshisha University",
+      "description": "Economics degree, Statistics",
+      "degree": null,
+      "major": null,
+      "period": "2014年 – 2018年",
+      "start_date": "2014年",
+      "end_date": "2018年"
+    }
+  ],
+  "groups": [
+    {
+      "name": "Oracle Japan",
+      "link": "https://jp.linkedin.com/groups?gid=6734631&trk=prof-groups-membership-name"
+    }
+  ],
+  "websites": [
+    "https://medium.com/@hidetakako",
+    "http://hidetaka.hateblo.jp/"
+  ],
+  "languages": [
+
+  ],
+  "skills": [
+    "Statistics",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Ruby on Rails",
+    "Data Analysis",
+    "Japanese",
+    "Git",
+    "jQuery"
+  ],
+  "certifications": [
+
+  ],
+  "organizations": [
+
+  ],
+  "past_companies": [
+    {
+      "title": "Software Engineer Internship",
+      "company": "Progate",
+      "description": "Teaching computer programing online http://prog-8.com/",
+      "duration": "6ヶ月",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "current_companies": [
+
+  ],
+  "recommended_visitors": [
+    {
+      "link": "https://jp.linkedin.com/in/yuichi-uyeda-1981baa1?trk=pub-pbmap",
+      "name": "YUICHI UYEDA",
+      "title": "Keio University",
+      "company": null
+    },
+    {
+      "link": "https://jp.linkedin.com/in/kazuya-tsukamoto-2a016b110?trk=pub-pbmap",
+      "name": "Kazuya Tsukamoto",
+      "title": "FX Forward Trader - Mizuho Bank, Ltd.",
+      "company": null
+    },
+    {
+      "link": "https://jp.linkedin.com/in/yuji-doi-78908250?trk=pub-pbmap",
+      "name": "Yuji Doi",
+      "title": "Open for new opportunities",
+      "company": null
+    },
+    {
+      "link": "https://jp.linkedin.com/in/yoshihiko-kohtani-8aa03932?trk=pub-pbmap",
+      "name": "Yoshihiko Kohtani",
+      "title": "Consultant",
+      "company": null
+    },
+    {
+      "link": "https://jp.linkedin.com/in/hajime-miyake-6b896557?trk=pub-pbmap",
+      "name": "Hajime Miyake",
+      "title": "Trainee",
+      "company": "Mitsui & Co., Ltd."
+    },
+    {
+      "link": "https://jp.linkedin.com/in/%E5%85%8B-%E5%A4%A7%E5%92%8C%E7%94%B0-76429042?trk=pub-pbmap",
+      "name": "大和田 克",
+      "title": "Mizuho Bank",
+      "company": null
+    },
+    {
+      "link": "https://jp.linkedin.com/in/kaisa-saarmann-235338117?trk=pub-pbmap",
+      "name": "Kaisa Saarmann",
+      "title": "Private Client Executive",
+      "company": "SEB"
+    },
+    {
+      "link": "https://jp.linkedin.com/in/tsubasa-itabashi-14664b41?trk=pub-pbmap",
+      "name": "Tsubasa Itabashi",
+      "title": "株式会社リッチメディア ー Account Plannerー",
+      "company": null
+    },
+    {
+      "link": "https://jp.linkedin.com/in/taishi-yamasaki-9b3858b3?trk=pub-pbmap",
+      "name": "Taishi Yamasaki",
+      "title": "Student",
+      "company": "Kansai university"
+    },
+    {
+      "link": "https://jp.linkedin.com/in/chibicode?trk=pub-pbmap",
+      "name": "Shu Uesugi",
+      "title": "Hacker",
+      "company": null
+    }
+  ]
+}
