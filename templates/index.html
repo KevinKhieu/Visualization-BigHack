@@ -123,6 +123,8 @@
       <th>Can help refugees on questions about</th>
       <th>Helping transport donations?</th>
       <th>Skills</th>
+      <th>Industry</th>
+      <th>Support</th>
     </tr>
   </thead>
   <tbody>
@@ -135,6 +137,8 @@
       <td>{{volunteer.Answer | angular}}</td>
       <td>{{volunteer.Donation | angular}}</td>
       <td ng-bind-html="volunteer.Skills | unsafe"></td>
+      <td>{{volunteer.Industry | angular}}</td>
+      <td>{{volunteer.Support | angular}}</td>
     </tr>
   </tbody>
 </table>

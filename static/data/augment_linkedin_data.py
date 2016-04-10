@@ -7,6 +7,7 @@ with open("volunteer-signups.csv") as csvfile:
     headers = reader.fieldnames
     augmented_header = headers.copy()
     augmented_header.append("Skills")
+    augmented_header.append("Industry")
 
     enclosed_headers = []
     for header in augmented_header:
@@ -30,6 +31,11 @@ with open("volunteer-signups.csv") as csvfile:
                 if person["skills"]:
                     skills = ", ".join(filter(lambda x:x != "See less" and "See " not in x, person["skills"]))
                     to_print.append('"' + skills + '"')
+                else:
+                    to_print.append("")
+
+                if person["industry"]:
+                    to_print.append('"' + person["industry"] + '"')
                 else:
                     to_print.append("")
         else:
