@@ -5,7 +5,7 @@ To install...
 
 First time
 
-1. Install pip: `sudo easy_install pip`
+1. Install pip: See https://pip.pypa.io/en/stable/installing/ 
 1. Install virtualenv: `pip install virtualenv`
 1. Add a virtualenv folder: `virtualenv -p /usr/bin/python2.7 venv`
 1. Activate it: `source venv/bin/activate`
